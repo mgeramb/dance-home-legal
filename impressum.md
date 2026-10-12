@@ -18,4 +18,4 @@ Informationen zur App „Dance Home“ (Beschreibung, Datenschutzerklärung, Imp
 
 ## Datenschutz
 
-Siehe [Datenschutzerklärung](privacy.html).
+Siehe [Datenschutzerklärung](privacy.md).

@@ -18,4 +18,4 @@ Information about the app “Dance Home” (description, privacy policy, legal n
 
 ## Privacy
 
-See the [privacy policy](privacy.html).
+See the [privacy policy](privacy.md).
