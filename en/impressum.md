@@ -1,6 +1,6 @@
 # Legal notice (Impressum)
 
-_Draft (E30-S08) – to be legally reviewed before publication. The German version is authoritative._
+_Draft (E35-S08) – to be legally reviewed before publication. The German version is authoritative._
 
 Information pursuant to Section 5 of the Austrian E-Commerce Act (ECG) and disclosure pursuant to Section 25 of the Austrian Media Act (MedienG)
 

@@ -1,6 +1,6 @@
 # Impressum
 
-_Entwurf (E30-S08) – vor der Veröffentlichung rechtlich prüfen._
+_Entwurf (E35-S08) – vor der Veröffentlichung rechtlich prüfen._
 
 Angaben gemäß § 5 E-Commerce-Gesetz (ECG) und Offenlegung gemäß § 25 Mediengesetz (MedienG)
 

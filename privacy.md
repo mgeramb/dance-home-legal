@@ -1,10 +1,10 @@
 # Datenschutzerklärung
 
-_Entwurf (E30-S08) – vor der Veröffentlichung rechtlich prüfen. Stand: 12. Oktober 2026._
+_Entwurf (E35-S08) – vor der Veröffentlichung rechtlich prüfen. Stand: 15. Oktober 2026._
 
 ## Kurz gesagt
 
-Die App Dance Home verarbeitet deine Daten grundsätzlich nur auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking, keine Werbung und keine Analyse-Werkzeuge. Daten verlassen dein Gerät nur, wenn du eine der optionalen Funktionen ausdrücklich einschaltest – die Synchronisierung über iCloud oder Google Drive bzw. künftig das Teilen deiner Einschätzung zur Tanztauglichkeit von Musik. Beide Funktionen sind ab Werk ausgeschaltet. Zu TestFlight siehe „Dienste von Apple und Google“.
+Diese Erklärung gilt für die App Dance Home auf iPhone, iPad, Mac (mit Apple-Chip) und Android. Die App verarbeitet deine Daten grundsätzlich nur auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking, keine Werbung und keine Analyse-Werkzeuge. Daten verlassen dein Gerät nur, wenn du eine der optionalen Funktionen ausdrücklich einschaltest – die Synchronisierung über iCloud oder Google Drive, das Teilen mit der Familie bzw. künftig das Teilen deiner Einschätzung zur Tanztauglichkeit von Musik. Diese Funktionen sind ab Werk ausgeschaltet. Zu TestFlight siehe „Dienste von Apple und Google“.
 
 ## Verantwortlicher
 
@@ -16,16 +16,18 @@ E-Mail: DanceHome@icloud.com
 
 Die App verarbeitet folgende Daten auf deinem Gerät:
 
-- Videos und Musik, die du auswählst, werden in den Speicher der App kopiert. Die Originale in deiner Fotomediathek, Mediathek oder in Dateien bleiben unverändert.
+- Videos und Musik, die du auswählst, werden in den Speicher der App kopiert. Die Originale in deiner Fotomediathek, Mediathek oder in Dateien bleiben unverändert. Auf dem Mac kannst du Dateien auch aus dem Finder in das App-Fenster ziehen; kopiert werden nur die gezogenen Dateien.
 - Stichworte, Notizen, Bewertungen, eigene Tänze und Einstellungen speichert die App in einer Datenbank auf deinem Gerät.
-- Das Mikrofon nutzt die App nur, wenn du das Zuhören über das Mikrofon startest, um Tanz und Takt der laufenden Musik zu erkennen. Der Ton wird nur im Arbeitsspeicher ausgewertet, nicht aufgezeichnet und nicht gesendet.
+- Beim Import übernimmt die App die in der Datei bzw. Mediathek gespeicherten Metadaten (zum Beispiel Aufnahmezeitpunkt, Aufnahmeort und Kameramodell) und speichert sie auf deinem Gerät.
+- Wenn du in der App ein Video aufnimmst, nutzt sie Kamera und Mikrofon; die Aufnahme wird wie andere Videos im Speicher der App abgelegt.
+- Beim Zuhören über das Mikrofon erkennt die App den Takt der laufenden Musik. Der Ton wird dabei nur im Arbeitsspeicher ausgewertet, nicht aufgezeichnet und nicht gesendet.
 - Sprachbefehle (Siri bzw. Google Assistant) verarbeitet das Betriebssystem deines Geräts. Die App erhält nur den erkannten Befehl, zum Beispiel den Namen eines Tanzes.
 
 Rechtsgrundlage für diese Verarbeitung ist die Bereitstellung der von dir genutzten Funktionen (Art. 6 Abs. 1 lit. b DSGVO).
 
 ## Berechtigungen
 
-Die App fragt nur nach Zugriffen, die eine Funktion braucht, und erst, wenn du diese Funktion nutzt: Fotos (Videos importieren), Mediathek (Musik importieren und Apple Music), Mikrofon (Zuhören) sowie Benachrichtigungen unter Android (Wiedergabe im Hintergrund). Du kannst jede Berechtigung jederzeit in den Einstellungen deines Geräts widerrufen.
+Die App fragt nur nach Zugriffen, die eine Funktion braucht, und erst, wenn du diese Funktion nutzt: Fotos (Videos importieren), Mediathek (Musik importieren und Apple Music), Kamera (Videos aufnehmen), Mikrofon (Ton zu Videoaufnahmen, Zuhören) sowie Benachrichtigungen unter Android (Wiedergabe im Hintergrund). Du kannst jede Berechtigung jederzeit in den Einstellungen deines Geräts widerrufen.
 
 ## Speicherort, Sicherung und Löschen
 
@@ -40,6 +42,10 @@ Dance Home kann deine Daten zwischen deinen Geräten synchronisieren. Diese Funk
 - **Ausschalten:** jederzeit in den Einstellungen der App. Bereits übertragene Daten verwaltest oder löschst du in deinem iCloud- bzw. Google-Konto.
 
 Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), die du durch das Einschalten erteilst und durch das Ausschalten jederzeit mit Wirkung für die Zukunft widerrufen kannst.
+
+## Mit der Familie teilen (optional)
+
+Du kannst eine Familienbibliothek über iCloud mit Personen teilen, die du selbst einlädst. Neue Videos und Musik sind standardmäßig privat; nur was du ausdrücklich der Familienbibliothek zuordnest, wird samt Titel, Stichworten und Notizen über iCloud für die eingeladenen Personen freigegeben. Sie sehen dabei deinen Namen als Herkunft. Du kannst das Teilen jederzeit beenden oder Inhalte wieder privat machen. Die Freigabe läuft über die iCloud-Funktionen von Apple; der Verantwortliche von Dance Home hat keinen Zugriff. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
 
 ## Einschätzung der Tanztauglichkeit (geplant, optional)
 
@@ -58,7 +64,7 @@ Diese Funktion ist noch nicht verfügbar. Bevor sie eingeführt wird, ergänzt d
 
 ## Keine Weitergabe
 
-Deine Daten werden nicht verkauft und nicht für Werbung genutzt. Eine Übermittlung findet nur an die von dir gewählten Speicherdienste (iCloud, Google Drive) und – bei eingeschalteter Einschätzung der Tanztauglichkeit – in anonymer Form an den Server des Verantwortlichen statt.
+Deine Daten werden nicht verkauft und nicht für Werbung genutzt. Eine Übermittlung findet nur an die von dir gewählten Speicherdienste (iCloud, Google Drive), an die von dir eingeladenen Familienmitglieder und – bei eingeschalteter Einschätzung der Tanztauglichkeit – in anonymer Form an den Server des Verantwortlichen statt.
 
 ## Deine Rechte
 
@@ -68,8 +74,7 @@ Du hast nach der Datenschutz-Grundverordnung (DSGVO) das Recht auf Auskunft, Ber
 
 Wenn neue Funktionen Daten anders verarbeiten, wird diese Erklärung vorher angepasst. Die jeweils aktuelle Fassung findest du in der App unter Mehr › Über & Lizenzen › Datenschutz und im Web.
 
-<!-- Künftige Abschnitte, mit dem jeweiligen Epic aktivieren (E30-S08, docs/PROCESS.md):
+<!-- Künftige Abschnitte, mit dem jeweiligen Epic aktivieren (E35-S08, docs/PROCESS.md):
 ## Sicherungsdatei (Epic 29)
-## Mit der Familie teilen (Epic 12)
 ## Online-Videos und Online-Musikanbieter (Epic 20, standardmäßig aus)
 -->

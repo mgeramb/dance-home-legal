@@ -1,10 +1,10 @@
 # Privacy policy
 
-_Draft (E30-S08) – to be legally reviewed before publication. The German version is authoritative. Last updated: 12 October 2026._
+_Draft (E35-S08) – to be legally reviewed before publication. The German version is authoritative. Last updated: 15 October 2026._
 
 ## In short
 
-The Dance Home app processes your data on your device only, as a rule. There is no user account, no tracking, no advertising and no analytics. Data leaves your device only if you expressly turn on one of the optional features – sync via iCloud or Google Drive or, in a future version, sharing your assessment of how danceable music is. Both features are off by default. For TestFlight see “Apple and Google services”.
+This policy applies to the Dance Home app on iPhone, iPad, Mac (with Apple silicon) and Android. The app processes your data on your device only, as a rule. There is no user account, no tracking, no advertising and no analytics. Data leaves your device only if you expressly turn on one of the optional features – sync via iCloud or Google Drive, sharing with family or, in a future version, sharing your assessment of how danceable music is. These features are off by default. For TestFlight see “Apple and Google services”.
 
 ## Controller
 
@@ -16,16 +16,18 @@ Email: DanceHome@icloud.com
 
 The app processes the following data on your device:
 
-- Videos and music you choose are copied into the app's storage. The originals in your photo library, music library or files remain unchanged.
+- Videos and music you choose are copied into the app's storage. The originals in your photo library, music library or files remain unchanged. On the Mac you can also drag files from the Finder into the app window; only the dragged files are copied.
 - Tags, notes, ratings, your own dances and settings are stored in a database on your device.
-- The app uses the microphone only when you start listening through the microphone to recognize the dance and beat of the music playing. The audio is analyzed in memory only, never recorded and never sent.
+- When importing, the app keeps the metadata stored in the file or library (for example time and place of recording and camera model) and stores it on your device.
+- When you record a video in the app, it uses the camera and microphone; the recording is stored in the app's storage like other videos.
+- When listening through the microphone, the app recognizes the beat of the music playing. The audio is analyzed in memory only, never recorded and never sent.
 - Voice commands (Siri or Google Assistant) are processed by your device's operating system. The app only receives the recognized command, for example the name of a dance.
 
 The legal basis for this processing is providing the features you use (Art. 6(1)(b) GDPR).
 
 ## Permissions
 
-The app only asks for access a feature needs, and only when you use that feature: Photos (import videos), media library (import music and Apple Music), microphone (listening) and, on Android, notifications (background playback). You can revoke any permission at any time in your device settings.
+The app only asks for access a feature needs, and only when you use that feature: Photos (import videos), media library (import music and Apple Music), camera (record videos), microphone (sound for recordings, listening) and, on Android, notifications (background playback). You can revoke any permission at any time in your device settings.
 
 ## Storage, backup and deletion
 
@@ -40,6 +42,10 @@ Dance Home can sync your data between your devices. This feature is off by defau
 - **Turning it off:** at any time in the app's settings. You manage or delete data already transferred in your iCloud or Google account.
 
 The legal basis is your consent (Art. 6(1)(a) GDPR), which you give by turning the feature on and can withdraw at any time with effect for the future by turning it off.
+
+## Share with family (optional)
+
+You can share a family library via iCloud with people you invite yourself. New videos and music are private by default; only what you expressly assign to the family library is shared via iCloud with the invited people, including title, tags and notes. They see your name as its origin. You can stop sharing at any time or make content private again. Sharing uses Apple's iCloud features; the controller of Dance Home has no access. The legal basis is your consent (Art. 6(1)(a) GDPR).
 
 ## Assessing danceability (planned, optional)
 
@@ -58,7 +64,7 @@ This feature is not yet available. Before it is introduced, this policy will be 
 
 ## No sharing
 
-Your data is not sold and not used for advertising. Data is transferred only to the storage services you choose (iCloud, Google Drive) and – if you turn on assessing danceability – anonymously to the controller's server.
+Your data is not sold and not used for advertising. Data is transferred only to the storage services you choose (iCloud, Google Drive), to the family members you invite and – if you turn on assessing danceability – anonymously to the controller's server.
 
 ## Your rights
 
@@ -68,8 +74,7 @@ Under the General Data Protection Regulation (GDPR) you have the right of access
 
 If new features process data differently, this policy will be updated beforehand. The current version is available in the app under More › About & licenses › Privacy and on the web.
 
-<!-- Future sections, activate with the respective epic (E30-S08, docs/PROCESS.md):
+<!-- Future sections, activate with the respective epic (E35-S08, docs/PROCESS.md):
 ## Backup file (Epic 29)
-## Share with family (Epic 12)
 ## Online videos and online music providers (Epic 20, off by default)
 -->
