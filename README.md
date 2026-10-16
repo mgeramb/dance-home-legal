@@ -6,12 +6,14 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 
 > Status: Dance Home wird derzeit getestet und ist noch nicht im App Store. Diese Seite beschreibt nur Funktionen, die bereits in der App umgesetzt sind.
 
-<p>
-<img src="img/welcome.jpg" width="190" alt="Begrüßung">
-<img src="img/dances.jpg" width="190" alt="Tänze mit Fotos">
-<img src="img/metronome.jpg" width="190" alt="Metronom">
-<img src="img/privacy.jpg" width="190" alt="Deine Daten">
-</p>
+<table>
+<tr>
+<td align="center"><img src="img/1-tanzauswahl.jpg" width="200" alt="Tanzauswahl"><br><sub>Tanzauswahl</sub></td>
+<td align="center"><img src="img/2-video-wischen.jpg" width="200" alt="Video mit Wisch-Hilfe"><br><sub>Videos: Wischen zum Spulen</sub></td>
+<td align="center"><img src="img/3-musik-tempo.jpg" width="200" alt="Musik langsamer abspielen"><br><sub>Musik langsamer abspielen</sub></td>
+<td align="center"><img src="img/4-metronom.jpg" width="200" alt="Metronom"><br><sub>Metronom</sub></td>
+</tr>
+</table>
 
 ## Was Dance Home kann
 
@@ -22,7 +24,7 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 
 ### Videos
 - Eigene Videos in die App übernehmen (aus Fotos, per „Teilen“ oder direkt filmen) – die Originale bleiben unverändert.
-- **Präzise Analyse:** Wisch-Spulen bis aufs Einzelbild, Filmstreifen, schnelle Tasten.
+- **Präzise Analyse:** Wische über das Video, um zu spulen – schnell spult, langsam geht Bild für Bild; dazu Zeitlupe ½×, Filmstreifen und schnelle Tasten. Beim ersten Mal zeigt die App eine kleine Hilfe dazu.
 - Titel, Stichworte, Tanz und **Notizen** zu jedem Video.
 - **Direkt aufnehmen** mit den Zoom-Stufen der Kamera-App; das Video landet sofort beim gewählten Tanz.
 
@@ -32,21 +34,25 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 
 ### Musik
 - Eigene Dateien, Musik-Mediathek und (experimentell) Apple Music.
-- **Tempo ändern bei gleicher Tonhöhe** – in Prozent oder in Takten pro Minute; Playlisten, A–B-Schleife und Suche nach Tempo.
+- **Musik langsamer machen, ohne dass sie tiefer klingt:** 70 %, 80 %, 90 % oder ein Zieltempo in Takten pro Minute – ideal zum Einüben neuer Figuren. Dazu Playlisten, A–B-Schleife und Suche nach Tempo.
 - **Taktzähler:** zählt den Takt der laufenden Musik live mit.
+
+### Mit der Familie teilen
+- **Familienfreigabe über iCloud:** Teile Videos samt Titel, Tanz, Stichworten und Notizen mit Personen, die du selbst einlädst – zum Beispiel deinem Tanzpartner oder deiner Familie.
+- Neue Inhalte sind standardmäßig **privat**; geteilt wird nur, was du ausdrücklich der Familienbibliothek zuordnest. Die Eingeladenen sehen, von wem ein Video stammt.
+- Du kannst das Teilen jederzeit beenden. Funktioniert auf iPhone, iPad und Mac.
 
 ### Überall dabei
 - **Sprachsteuerung:** „Spiele Walzer in Dance Home“ mit Siri bzw. dem Android-Assistenten.
 - **Tonausgabe:** über AirPlay, Bluetooth oder das Gerät.
-- **iCloud-Sync** (optional, ab Werk aus) und **Teilen mit der Familie** auf iPhone, iPad und Mac.
+- **iCloud-Sync** (optional, ab Werk aus): deine Bibliothek auf allen eigenen Geräten.
 - **Plattformen:** iPhone, iPad, Android, Mac und Windows (als installierbare Web-App).
 - Deutsch und Englisch, heller und dunkler Farbstil.
 
 ## Datenschutz
 
-Dance Home speichert alles auf deinem Gerät – ohne Konto, ohne Server, ohne Tracking. iCloud-Sync ist freiwillig und ab Werk aus. Vor dem ersten Start bestätigst du die Datenschutzerklärung; sie lässt sich in der App auch ohne Internet lesen.
+Dance Home speichert alles auf deinem Gerät – ohne Konto, ohne Server, ohne Tracking. iCloud-Sync ist freiwillig und ab Werk aus. Vor dem ersten Start bestätigst du die Datenschutzerklärung; sie lässt sich in der App auch ohne Internet lesen. Das Teilen mit der Familie passiert nur auf deine Einladung.
 
-<p><img src="img/consent.jpg" width="190" alt="Datenschutzerklärung bestätigen"></p>
 
 - [Datenschutzerklärung](privacy.md)
 - [Impressum](impressum.md)
@@ -57,4 +63,4 @@ Michael Geramb · DanceHome@icloud.com
 
 ---
 
-[English version](en/index.md)
+[English version](en/README.md)

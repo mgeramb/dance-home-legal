@@ -6,14 +6,16 @@ Dance Home is free and will remain free. There is no paid advertising, no in-app
 
 > Status: Dance Home is currently being tested and is not yet in the App Store. This page only describes features that are already implemented in the app.
 
-<p>
-<img src="../img/welcome.jpg" width="190" alt="Welcome">
-<img src="../img/dances.jpg" width="190" alt="Dances with photos">
-<img src="../img/metronome.jpg" width="190" alt="Metronome">
-<img src="../img/privacy.jpg" width="190" alt="Your data">
-</p>
+<table>
+<tr>
+<td align="center"><img src="../img/1-tanzauswahl.jpg" width="200" alt="Dance selection"><br><sub>Dance selection</sub></td>
+<td align="center"><img src="../img/2-video-wischen.jpg" width="200" alt="Video with swipe hint"><br><sub>Videos: swipe to scrub</sub></td>
+<td align="center"><img src="../img/3-musik-tempo.jpg" width="200" alt="Play music slower"><br><sub>Play music slower</sub></td>
+<td align="center"><img src="../img/4-metronom.jpg" width="200" alt="Metronome"><br><sub>Metronome</sub></td>
+</tr>
+</table>
 
-_The screenshots show the German version._
+_The screenshots show the German version in the dark style._
 
 ## What Dance Home can do
 
@@ -24,7 +26,7 @@ _The screenshots show the German version._
 
 ### Videos
 - Bring your own videos into the app (from Photos, via “Share”, or film directly) – the originals stay untouched.
-- **Precise analysis:** swipe-scrubbing down to a single frame, filmstrip, quick keys.
+- **Precise analysis:** swipe over the video to scrub – fast swipes skip ahead, slow ones go frame by frame; plus ½× slow motion, filmstrip and quick keys. The app shows a short hint the first time.
 - Title, keywords, dance and **notes** for every video.
 - **Record in the app** with the zoom steps of the camera app; the video lands with the chosen dance right away.
 
@@ -34,21 +36,25 @@ _The screenshots show the German version._
 
 ### Music
 - Your own files, music library and (experimental) Apple Music.
-- **Change the tempo without changing the pitch** – in percent or in bars per minute; playlists, A–B loop and search by tempo.
+- **Slow the music down without making it sound lower:** 70 %, 80 %, 90 % or a target tempo in bars per minute – ideal for learning new figures. Plus playlists, A–B loop and search by tempo.
 - **Beat counter:** counts the beat of the music that is playing, live.
+
+### Share with your family
+- **Family sharing via iCloud:** share videos including title, dance, keywords and notes with people you invite yourself – for example your dance partner or your family.
+- New items are **private** by default; only what you explicitly assign to the family library is shared. Invited people see who a video comes from.
+- You can stop sharing at any time. Works on iPhone, iPad and Mac.
 
 ### Everywhere
 - **Voice control:** “Play waltz in Dance Home” with Siri or the Android assistant.
 - **Sound output:** via AirPlay, Bluetooth or the device.
-- **iCloud sync** (optional, off by default) and **sharing with the family** on iPhone, iPad and Mac.
+- **iCloud sync** (optional, off by default): your library on all your own devices.
 - **Platforms:** iPhone, iPad, Android, Mac and Windows (as an installable web app).
 - German and English, light and dark style.
 
 ## Privacy
 
-Dance Home keeps everything on your device – no account, no server, no tracking. iCloud sync is optional and off by default. Before first use you confirm the privacy policy; it can also be read in the app without internet.
+Dance Home keeps everything on your device – no account, no server, no tracking. iCloud sync is optional and off by default. Before first use you confirm the privacy policy; it can also be read in the app without internet. Sharing with the family only happens on your invitation.
 
-<p><img src="../img/consent.jpg" width="190" alt="Confirm privacy policy"></p>
 
 - [Privacy policy](privacy.md)
 - [Legal notice](impressum.md)
@@ -59,4 +65,4 @@ Michael Geramb · DanceHome@icloud.com
 
 ---
 
-[Deutsche Version](../index.md)
+[Deutsche Version](../README.md)
