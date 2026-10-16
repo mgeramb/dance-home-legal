@@ -65,4 +65,6 @@ Michael Geramb · DanceHome@icloud.com
 
 ---
 
+<sub>The dance pictures in the app and on this page are AI-generated.</sub>
+
 [Deutsche Version](../README.md)

@@ -63,4 +63,6 @@ Michael Geramb · DanceHome@icloud.com
 
 ---
 
+<sub>Die Tanzbilder in der App und auf dieser Seite sind KI-generiert.</sub>
+
 [English version](en/README.md)
