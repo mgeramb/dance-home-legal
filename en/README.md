@@ -20,7 +20,7 @@ _The screenshots show the German version in the dark style._
 ## What Dance Home can do
 
 ### Dances at the centre
-- **19 dances:** the 10 competition dances (Standard and Latin, tempo per WDSF) and 9 social dances such as Discofox, Salsa, Bachata or Lindy Hop – each with photo, time signature, tempo, accents and description.
+- **21 dances:** the 10 competition dances (Standard and Latin, tempo per WDSF) and 11 social dances such as Discofox, Salsa, Bachata, Swing or Rock’n’Roll – each with photo or placeholder image, time signature, tempo, accents and description.
 - **Dance info:** listen to the rhythm, read about character, history and sources of every dance; you can add your own dances.
 - **Dance selection:** pick your dances as chips; videos, music and metronome follow the active dance.
 
@@ -58,6 +58,13 @@ Dance Home keeps everything on your device – no account, no server, no trackin
 
 - [Privacy policy](privacy.md)
 - [Legal notice](impressum.md)
+
+## Sources and licenses
+
+- **Dance descriptions:** written in our own words based on the German and English Wikipedia and the rules of the World DanceSport Federation (WDSF); the sources are listed for each dance in the app.
+- **Dance pictures:** AI-generated.
+- **Counting voice:** the device's system voice; as a fallback, number words created with Piper from the voices “Thorsten” (CC0) and “LJSpeech” (public domain).
+- All open-source components and fonts with their licenses: in the app under More › About & licenses.
 
 ## Contact
 

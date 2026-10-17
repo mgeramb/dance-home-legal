@@ -18,7 +18,7 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 ## Was Dance Home kann
 
 ### Tänze im Mittelpunkt
-- **19 Tänze:** die 10 Turniertänze (Standard und Latein, Tempo nach WDSF) und 9 Social-Tänze wie Discofox, Salsa, Bachata oder Lindy Hop – jeweils mit Foto, Taktart, Tempo, Betonung und Beschreibung.
+- **21 Tänze:** die 10 Turniertänze (Standard und Latein, Tempo nach WDSF) und 11 Social-Tänze wie Discofox, Salsa, Bachata, Swing oder Rock’n’Roll – jeweils mit Foto oder Symbolbild, Taktart, Tempo, Betonung und Beschreibung.
 - **Tanz-Info:** Rhythmus zum Anhören, Charakter, Geschichte und Quellen zu jedem Tanz; eigene Tänze lassen sich anlegen.
 - **Tanzauswahl:** Wähle deine Tänze als Chips; Videos, Musik und Metronom richten sich nach dem aktiven Tanz.
 
@@ -56,6 +56,13 @@ Dance Home speichert alles auf deinem Gerät – ohne Konto, ohne Server, ohne T
 
 - [Datenschutzerklärung](privacy.md)
 - [Impressum](impressum.md)
+
+## Quellen und Lizenzen
+
+- **Tanzbeschreibungen:** in eigenen Worten verfasst auf Grundlage der deutschen und englischen Wikipedia und des Regelwerks der World DanceSport Federation (WDSF); die Quellen stehen je Tanz in der App.
+- **Tanzbilder:** KI-generiert.
+- **Zählstimme:** die Systemstimme des Geräts; als Rückfall Zahlwörter, erzeugt mit Piper aus den Stimmen „Thorsten“ (CC0) und „LJSpeech“ (gemeinfrei).
+- Alle Open-Source-Bausteine und Schriften mit ihren Lizenzen: in der App unter Mehr › Über & Lizenzen.
 
 ## Kontakt
 
