@@ -1,10 +1,10 @@
 # Privacy policy
 
-_Draft (E35-S08) – to be legally reviewed before publication. The German version is authoritative. Last updated: 15 October 2026._
+_Draft (E35-S08) – to be legally reviewed before publication. The German version is authoritative. Last updated: 17 October 2026._
 
 ## In short
 
-This policy applies to the Dance Home app on iPhone, iPad, Mac (with Apple silicon) and Android. The app processes your data on your device only, as a rule. There is no user account, no tracking, no advertising and no analytics. Data leaves your device only if you expressly turn on one of the optional features – sync via iCloud or Google Drive, sharing with family or, in a future version, sharing your assessment of how danceable music is. These features are off by default. For TestFlight see “Apple and Google services”.
+This policy applies to the Dance Home app on iPhone, iPad, Mac (with Apple silicon) and Android. The app processes your data on your device only, as a rule. There is no user account, no tracking, no advertising and no analytics. Data leaves your device only if you expressly turn on one of the optional features – sync via iCloud or Google Drive, sharing with family or, in a future version, sharing your assessment of how danceable music is. These features are off by default. For TestFlight and Google Play tests see “Apple and Google services”.
 
 ## Controller
 
@@ -60,7 +60,7 @@ This feature is not yet available. Before it is introduced, this policy will be 
 ## Apple and Google services
 
 - **Apple Music:** If you turn on Apple Music in the app, the app queries your library and the catalog through Apple's MusicKit interface. Apple's privacy policy applies.
-- **App Store, TestFlight and Google Play:** When you download and update the app, Apple or Google process data under their own privacy policies. If you test the app via TestFlight, the controller receives from Apple your name and email address from the invitation, crash reports and any feedback you send yourself. This data is used only to improve the app.
+- **App Store, TestFlight and Google Play:** When you download and update the app, Apple or Google process data under their own privacy policies. If you test the app via TestFlight, the controller receives from Apple your name and email address from the invitation, crash reports and any feedback you send yourself. If you test the app via a Google Play test, the controller receives from Google your email address from the tester list, any feedback you send yourself and crash and performance data aggregated by Google (Android vitals). This data is used only to improve the app.
 
 ## No sharing
 

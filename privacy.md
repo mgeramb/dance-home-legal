@@ -1,10 +1,10 @@
 # Datenschutzerklärung
 
-_Entwurf (E35-S08) – vor der Veröffentlichung rechtlich prüfen. Stand: 15. Oktober 2026._
+_Entwurf (E35-S08) – vor der Veröffentlichung rechtlich prüfen. Stand: 17. Oktober 2026._
 
 ## Kurz gesagt
 
-Diese Erklärung gilt für die App Dance Home auf iPhone, iPad, Mac (mit Apple-Chip) und Android. Die App verarbeitet deine Daten grundsätzlich nur auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking, keine Werbung und keine Analyse-Werkzeuge. Daten verlassen dein Gerät nur, wenn du eine der optionalen Funktionen ausdrücklich einschaltest – die Synchronisierung über iCloud oder Google Drive, das Teilen mit der Familie bzw. künftig das Teilen deiner Einschätzung zur Tanztauglichkeit von Musik. Diese Funktionen sind ab Werk ausgeschaltet. Zu TestFlight siehe „Dienste von Apple und Google“.
+Diese Erklärung gilt für die App Dance Home auf iPhone, iPad, Mac (mit Apple-Chip) und Android. Die App verarbeitet deine Daten grundsätzlich nur auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking, keine Werbung und keine Analyse-Werkzeuge. Daten verlassen dein Gerät nur, wenn du eine der optionalen Funktionen ausdrücklich einschaltest – die Synchronisierung über iCloud oder Google Drive, das Teilen mit der Familie bzw. künftig das Teilen deiner Einschätzung zur Tanztauglichkeit von Musik. Diese Funktionen sind ab Werk ausgeschaltet. Zu TestFlight und den Tests über Google Play siehe „Dienste von Apple und Google“.
 
 ## Verantwortlicher
 
@@ -60,7 +60,7 @@ Diese Funktion ist noch nicht verfügbar. Bevor sie eingeführt wird, ergänzt d
 ## Dienste von Apple und Google
 
 - **Apple Music:** Wenn du Apple Music in der App einschaltest, fragt die App die Mediathek und den Katalog über die Schnittstelle MusicKit von Apple ab. Dafür gilt die Datenschutzrichtlinie von Apple.
-- **App Store, TestFlight und Google Play:** Beim Herunterladen und Aktualisieren verarbeiten Apple bzw. Google Daten nach ihren eigenen Datenschutzrichtlinien. Wenn du die App über TestFlight testest, erhält der Verantwortliche über Apple deinen Namen und deine E-Mail-Adresse aus der Einladung, Absturzberichte und das Feedback, das du selbst sendest. Diese Daten dienen nur dazu, die App zu verbessern.
+- **App Store, TestFlight und Google Play:** Beim Herunterladen und Aktualisieren verarbeiten Apple bzw. Google Daten nach ihren eigenen Datenschutzrichtlinien. Wenn du die App über TestFlight testest, erhält der Verantwortliche über Apple deinen Namen und deine E-Mail-Adresse aus der Einladung, Absturzberichte und das Feedback, das du selbst sendest. Wenn du die App über einen Test bei Google Play testest, erhält der Verantwortliche über Google deine E-Mail-Adresse aus der Testerliste, das Feedback, das du selbst sendest, sowie von Google zusammengefasste Absturz- und Leistungsdaten (Android Vitals). Diese Daten dienen nur dazu, die App zu verbessern.
 
 ## Keine Weitergabe
 
