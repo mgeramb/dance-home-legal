@@ -1,6 +1,6 @@
 # Impressum
 
-_Entwurf (E35-S08) – vor der Veröffentlichung rechtlich prüfen._
+_Stand: 18. Oktober 2026._
 
 Angaben gemäß § 5 E-Commerce-Gesetz (ECG) und Offenlegung gemäß § 25 Mediengesetz (MedienG)
 

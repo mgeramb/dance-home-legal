@@ -1,10 +1,10 @@
 # Datenschutzerklärung
 
-_Entwurf (E35-S08) – vor der Veröffentlichung rechtlich prüfen. Stand: 17. Oktober 2026._
+_Stand: 18. Oktober 2026._
 
 ## Kurz gesagt
 
-Diese Erklärung gilt für die App Dance Home auf iPhone, iPad, Mac (mit Apple-Chip) und Android. Die App verarbeitet deine Daten grundsätzlich nur auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking, keine Werbung und keine Analyse-Werkzeuge. Daten verlassen dein Gerät nur, wenn du eine der optionalen Funktionen ausdrücklich einschaltest – die Synchronisierung über iCloud oder Google Drive, das Teilen mit der Familie bzw. künftig das Teilen deiner Einschätzung zur Tanztauglichkeit von Musik. Diese Funktionen sind ab Werk ausgeschaltet. Zu TestFlight und den Tests über Google Play siehe „Dienste von Apple und Google“.
+Diese Erklärung gilt für die App Dance Home auf iPhone, iPad, Mac (mit Apple-Chip) und Android. Die App verarbeitet deine Daten grundsätzlich nur auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking, keine Werbung und keine Analyse-Werkzeuge. Daten verlassen dein Gerät nur, wenn du eine Notiz ausdrücklich über das Teilen-Menü verschickst (über den Dienst, den du dort wählst) oder eine der optionalen Funktionen ausdrücklich einschaltest – die Synchronisierung über iCloud oder Google Drive, das Teilen mit der Familie bzw. künftig das Teilen deiner Einschätzung zur Tanztauglichkeit von Musik. Diese Funktionen sind ab Werk ausgeschaltet. Zu TestFlight und den Tests über Google Play siehe „Dienste von Apple und Google“.
 
 ## Verantwortlicher
 
@@ -16,18 +16,17 @@ E-Mail: DanceHome@icloud.com
 
 Die App verarbeitet folgende Daten auf deinem Gerät:
 
-- Videos und Musik, die du auswählst, werden in den Speicher der App kopiert. Die Originale in deiner Fotomediathek, Mediathek oder in Dateien bleiben unverändert. Auf dem Mac kannst du Dateien auch aus dem Finder in das App-Fenster ziehen; kopiert werden nur die gezogenen Dateien.
+- Videos (auf Wunsch auch Fotos) und Musik, die du auswählst oder mit „Teilen“ an die App gibst, werden in den Speicher der App kopiert. Die Originale in deiner Fotomediathek, Mediathek oder in Dateien bleiben unverändert. Auf dem Mac kannst du Dateien auch aus dem Finder in das App-Fenster ziehen; kopiert werden nur die gezogenen Dateien.
 - Stichworte, Notizen, Bewertungen, eigene Tänze und Einstellungen speichert die App in einer Datenbank auf deinem Gerät.
 - Beim Import übernimmt die App die in der Datei bzw. Mediathek gespeicherten Metadaten (zum Beispiel Aufnahmezeitpunkt, Aufnahmeort und Kameramodell) und speichert sie auf deinem Gerät.
 - Wenn du in der App ein Video aufnimmst, nutzt sie Kamera und Mikrofon; die Aufnahme wird wie andere Videos im Speicher der App abgelegt.
-- Beim Zuhören über das Mikrofon erkennt die App den Takt der laufenden Musik. Der Ton wird dabei nur im Arbeitsspeicher ausgewertet, nicht aufgezeichnet und nicht gesendet.
 - Sprachbefehle (Siri bzw. Google Assistant) verarbeitet das Betriebssystem deines Geräts. Die App erhält nur den erkannten Befehl, zum Beispiel den Namen eines Tanzes.
 
 Rechtsgrundlage für diese Verarbeitung ist die Bereitstellung der von dir genutzten Funktionen (Art. 6 Abs. 1 lit. b DSGVO).
 
 ## Berechtigungen
 
-Die App fragt nur nach Zugriffen, die eine Funktion braucht, und erst, wenn du diese Funktion nutzt: Fotos (Videos importieren), Mediathek (Musik importieren und Apple Music), Kamera (Videos aufnehmen), Mikrofon (Ton zu Videoaufnahmen, Zuhören) sowie Benachrichtigungen unter Android (Wiedergabe im Hintergrund). Du kannst jede Berechtigung jederzeit in den Einstellungen deines Geräts widerrufen.
+Die App fragt nur nach Zugriffen, die eine Funktion braucht, und erst, wenn du diese Funktion nutzt: Fotos (Videos und Fotos importieren), Mediathek (Musik importieren und Apple Music), Kamera (Videos aufnehmen), Mikrofon (Ton zu Videoaufnahmen) sowie Benachrichtigungen unter Android (Wiedergabe im Hintergrund). Du kannst jede Berechtigung jederzeit in den Einstellungen deines Geräts widerrufen.
 
 ## Speicherort, Sicherung und Löschen
 
@@ -37,7 +36,7 @@ Die Daten liegen im Speicher der App auf deinem Gerät. Sie sind Teil der Gerät
 
 Dance Home kann deine Daten zwischen deinen Geräten synchronisieren. Diese Funktion ist ab Werk ausgeschaltet und wird nur aktiv, wenn du sie selbst einschaltest.
 
-- **Was übertragen wird:** deine Videos und Musik sowie Stichworte, Notizen, Bewertungen, eigene Tänze und Einstellungen.
+- **Was übertragen wird:** deine Videos und Musik sowie Stichworte, Notizen (zu Videos und zu Tänzen), Bewertungen, eigene Tänze und Einstellungen.
 - **Wohin:** ausschließlich in deinen eigenen Speicher bei Apple (iCloud) bzw. Google (Google Drive). Für die Speicherung und Übertragung gelten die Datenschutzbestimmungen des jeweiligen Anbieters. Der Verantwortliche von Dance Home hat keinen Zugriff auf diese Daten.
 - **Ausschalten:** jederzeit in den Einstellungen der App. Bereits übertragene Daten verwaltest oder löschst du in deinem iCloud- bzw. Google-Konto.
 
@@ -45,7 +44,7 @@ Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), die du durc
 
 ## Mit der Familie teilen (optional)
 
-Du kannst eine Familienbibliothek über iCloud mit Personen teilen, die du selbst einlädst. Neue Videos und Musik sind standardmäßig privat; nur was du ausdrücklich der Familienbibliothek zuordnest, wird samt Titel, Stichworten und Notizen über iCloud für die eingeladenen Personen freigegeben. Sie sehen dabei deinen Namen als Herkunft. Du kannst das Teilen jederzeit beenden oder Inhalte wieder privat machen. Die Freigabe läuft über die iCloud-Funktionen von Apple; der Verantwortliche von Dance Home hat keinen Zugriff. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
+Du kannst eine Familienbibliothek über iCloud mit Personen teilen, die du selbst einlädst. Neue Videos, Musik und Notizen zu Tänzen sind standardmäßig privat; nur was du ausdrücklich der Familienbibliothek zuordnest, wird samt Titel, Stichworten und Notizen über iCloud für die eingeladenen Personen freigegeben. Sie sehen dabei deinen Namen als Herkunft. Du kannst das Teilen jederzeit beenden oder Inhalte wieder privat machen. Die Freigabe läuft über die iCloud-Funktionen von Apple; der Verantwortliche von Dance Home hat keinen Zugriff. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
 
 ## Einschätzung der Tanztauglichkeit (geplant, optional)
 

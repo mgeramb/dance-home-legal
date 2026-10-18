@@ -35,7 +35,6 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 ### Musik
 - Eigene Dateien, Musik-Mediathek und (experimentell) Apple Music.
 - **Musik langsamer machen, ohne dass sie tiefer klingt:** 70 %, 80 %, 90 % oder ein Zieltempo in Takten pro Minute – ideal zum Einüben neuer Figuren. Dazu Playlisten, A–B-Schleife und Suche nach Tempo.
-- **Taktzähler:** zählt den Takt der laufenden Musik live mit.
 
 ### Mit der Familie teilen
 - **Familienfreigabe über iCloud:** Teile Videos samt Titel, Tanz, Stichworten und Notizen mit Personen, die du selbst einlädst – zum Beispiel deinem Tanzpartner oder deiner Familie.

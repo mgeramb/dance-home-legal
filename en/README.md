@@ -37,7 +37,6 @@ _The screenshots show the German version in the dark style._
 ### Music
 - Your own files, music library and (experimental) Apple Music.
 - **Slow the music down without making it sound lower:** 70 %, 80 %, 90 % or a target tempo in bars per minute – ideal for learning new figures. Plus playlists, A–B loop and search by tempo.
-- **Beat counter:** counts the beat of the music that is playing, live.
 
 ### Share with your family
 - **Family sharing via iCloud:** share videos including title, dance, keywords and notes with people you invite yourself – for example your dance partner or your family.
