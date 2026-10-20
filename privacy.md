@@ -4,7 +4,7 @@ _Stand: 18. Oktober 2026._
 
 ## Kurz gesagt
 
-Diese Erklärung gilt für die App Dance Home auf iPhone, iPad, Mac (mit Apple-Chip) und Android. Die App verarbeitet deine Daten grundsätzlich nur auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking, keine Werbung und keine Analyse-Werkzeuge. Daten verlassen dein Gerät nur, wenn du eine Notiz ausdrücklich über das Teilen-Menü verschickst (über den Dienst, den du dort wählst) oder eine der optionalen Funktionen ausdrücklich einschaltest – die Synchronisierung über iCloud oder Google Drive, das Teilen mit der Familie bzw. künftig das Teilen deiner Einschätzung zur Tanztauglichkeit von Musik. Diese Funktionen sind ab Werk ausgeschaltet. Zu TestFlight und den Tests über Google Play siehe „Dienste von Apple und Google“.
+Diese Erklärung gilt für die App Dance Home auf iPhone, iPad, Mac (mit Apple-Chip) und Android. Die App verarbeitet deine Daten grundsätzlich nur auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking, keine Werbung und keine Analyse-Werkzeuge. Daten verlassen dein Gerät nur, wenn du eine Notiz, ein Video oder einen Titel ausdrücklich über das Teilen-Menü verschickst (über den Dienst, den du dort wählst) oder eine der optionalen Funktionen ausdrücklich einschaltest – die Synchronisierung über iCloud oder Google Drive, das Teilen mit der Familie bzw. künftig das Teilen deiner Einschätzung zur Tanztauglichkeit von Musik. Diese Funktionen sind ab Werk ausgeschaltet. Zu TestFlight und den Tests über Google Play siehe „Dienste von Apple und Google“.
 
 ## Verantwortlicher
 
@@ -45,6 +45,10 @@ Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), die du durc
 ## Mit der Familie teilen (optional)
 
 Du kannst eine Familienbibliothek über iCloud mit Personen teilen, die du selbst einlädst. Neue Videos, Musik und Notizen zu Tänzen sind standardmäßig privat; nur was du ausdrücklich der Familienbibliothek zuordnest, wird samt Titel, Stichworten und Notizen über iCloud für die eingeladenen Personen freigegeben. Sie sehen dabei deinen Namen als Herkunft. Du kannst das Teilen jederzeit beenden oder Inhalte wieder privat machen. Die Freigabe läuft über die iCloud-Funktionen von Apple; der Verantwortliche von Dance Home hat keinen Zugriff. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
+
+## Videos und Musik nach außen teilen (auf Wunsch)
+
+Mit dem Teilen-Symbol in den Details eines Videos oder Musiktitels kannst du eine Kopie über das Teilen-Menü deines Geräts weitergeben (z. B. Nachrichten, AirDrop, Mail, „In Dateien sichern“). Geteilt wird nur, was du dort ausdrücklich auswählst, an die Empfänger und über den Dienst, den du wählst. Auf Wunsch stehen Titel, Tanz, Stichworte und Notiz (bei Musik Tänze, Stichworte und Tempo) in der geteilten Datei; der Aufnahmeort wird ab Werk aus der Kopie entfernt und geht nur mit, wenn du „Aufnahmeort mitschicken“ einschaltest. Bei Apple-Music-Titeln wird nur ein Link geteilt. Die App selbst sendet nichts an den Verantwortlichen oder an Dritte. Für das, was du teilst, bist du selbst verantwortlich (z. B. Urheberrecht, Recht am eigenen Bild).
 
 ## Einschätzung der Tanztauglichkeit (geplant, optional)
 

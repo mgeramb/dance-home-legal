@@ -30,16 +30,11 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 
 ### Metronom
 - Tempo und Taktart des Tanzes sind vorbelegt, die Betonung lässt sich antippen.
-- Deutlich hörbare Eins, Töne oder **Zählen per Stimme**; läuft auch im Hintergrund weiter.
+- Deutlich hörbare Eins und einstellbare Töne; läuft auch im Hintergrund weiter.
 
 ### Musik
-- Eigene Dateien, Musik-Mediathek und (experimentell) Apple Music.
+- Eigene Dateien, Musik-Mediathek und Apple Music.
 - **Musik langsamer machen, ohne dass sie tiefer klingt:** 70 %, 80 %, 90 % oder ein Zieltempo in Takten pro Minute – ideal zum Einüben neuer Figuren. Dazu Playlisten, A–B-Schleife und Suche nach Tempo.
-
-### Mit der Familie teilen
-- **Familienfreigabe über iCloud:** Teile Videos samt Titel, Tanz, Stichworten und Notizen mit Personen, die du selbst einlädst – zum Beispiel deinem Tanzpartner oder deiner Familie.
-- Neue Inhalte sind standardmäßig **privat**; geteilt wird nur, was du ausdrücklich der Familienbibliothek zuordnest. Die Eingeladenen sehen, von wem ein Video stammt.
-- Du kannst das Teilen jederzeit beenden. Funktioniert auf iPhone, iPad und Mac.
 
 ### Überall dabei
 - **Sprachsteuerung:** „Spiele Walzer in Dance Home“ mit Siri bzw. dem Android-Assistenten.
@@ -50,8 +45,7 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 
 ## Datenschutz
 
-Dance Home speichert alles auf deinem Gerät – ohne Konto, ohne Server, ohne Tracking. iCloud-Sync ist freiwillig und ab Werk aus. Vor dem ersten Start bestätigst du die Datenschutzerklärung; sie lässt sich in der App auch ohne Internet lesen. Das Teilen mit der Familie passiert nur auf deine Einladung.
-
+Dance Home speichert alles auf deinem Gerät – ohne Konto, ohne Server, ohne Tracking. iCloud-Sync ist freiwillig und ab Werk aus. Vor dem ersten Start bestätigst du die Datenschutzerklärung; sie lässt sich in der App auch ohne Internet lesen.
 
 - [Datenschutzerklärung](privacy.md)
 - [Impressum](impressum.md)
@@ -60,7 +54,6 @@ Dance Home speichert alles auf deinem Gerät – ohne Konto, ohne Server, ohne T
 
 - **Tanzbeschreibungen:** in eigenen Worten verfasst auf Grundlage der deutschen und englischen Wikipedia und des Regelwerks der World DanceSport Federation (WDSF); die Quellen stehen je Tanz in der App.
 - **Tanzbilder:** KI-generiert.
-- **Zählstimme:** die Systemstimme des Geräts; als Rückfall Zahlwörter, erzeugt mit Piper aus den Stimmen „Thorsten“ (CC0) und „LJSpeech“ (gemeinfrei).
 - Alle Open-Source-Bausteine und Schriften mit ihren Lizenzen: in der App unter Mehr › Über & Lizenzen.
 
 ## Kontakt

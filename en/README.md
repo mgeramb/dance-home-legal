@@ -32,16 +32,11 @@ _The screenshots show the German version in the dark style._
 
 ### Metronome
 - Tempo and time signature of the dance are preset, accents can be tapped.
-- A clearly audible one, tones or **counting by voice**; keeps running in the background.
+- A clearly audible one and adjustable tones; keeps running in the background.
 
 ### Music
-- Your own files, music library and (experimental) Apple Music.
+- Your own files, music library and Apple Music.
 - **Slow the music down without making it sound lower:** 70 %, 80 %, 90 % or a target tempo in bars per minute – ideal for learning new figures. Plus playlists, A–B loop and search by tempo.
-
-### Share with your family
-- **Family sharing via iCloud:** share videos including title, dance, keywords and notes with people you invite yourself – for example your dance partner or your family.
-- New items are **private** by default; only what you explicitly assign to the family library is shared. Invited people see who a video comes from.
-- You can stop sharing at any time. Works on iPhone, iPad and Mac.
 
 ### Everywhere
 - **Voice control:** “Play waltz in Dance Home” with Siri or the Android assistant.
@@ -52,8 +47,7 @@ _The screenshots show the German version in the dark style._
 
 ## Privacy
 
-Dance Home keeps everything on your device – no account, no server, no tracking. iCloud sync is optional and off by default. Before first use you confirm the privacy policy; it can also be read in the app without internet. Sharing with the family only happens on your invitation.
-
+Dance Home keeps everything on your device – no account, no server, no tracking. iCloud sync is optional and off by default. Before first use you confirm the privacy policy; it can also be read in the app without internet.
 
 - [Privacy policy](privacy.md)
 - [Legal notice](impressum.md)
@@ -62,7 +56,6 @@ Dance Home keeps everything on your device – no account, no server, no trackin
 
 - **Dance descriptions:** written in our own words based on the German and English Wikipedia and the rules of the World DanceSport Federation (WDSF); the sources are listed for each dance in the app.
 - **Dance pictures:** AI-generated.
-- **Counting voice:** the device's system voice; as a fallback, number words created with Piper from the voices “Thorsten” (CC0) and “LJSpeech” (public domain).
 - All open-source components and fonts with their licenses: in the app under More › About & licenses.
 
 ## Contact
