@@ -8,12 +8,18 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 
 <table>
 <tr>
-<td align="center"><img src="img/1-tanzauswahl.jpg" width="200" alt="Tanzauswahl"><br><sub>Tanzauswahl</sub></td>
-<td align="center"><img src="img/2-video-wischen.jpg" width="200" alt="Video mit Wisch-Hilfe"><br><sub>Videos: Wischen zum Spulen</sub></td>
-<td align="center"><img src="img/3-musik-tempo.jpg" width="200" alt="Musik langsamer abspielen"><br><sub>Musik langsamer abspielen</sub></td>
-<td align="center"><img src="img/4-metronom.jpg" width="200" alt="Metronom"><br><sub>Metronom</sub></td>
+<td align="center"><img src="img/1-tanzauswahl.png" width="210" alt="Tanzauswahl"><br><sub>Tanzauswahl</sub></td>
+<td align="center"><img src="img/2-video-wischen.png" width="210" alt="Video mit Wisch-Hilfe"><br><sub>Videos: Wischen zum Spulen</sub></td>
+<td align="center"><img src="img/3-musik-tempo.png" width="210" alt="Musik langsamer abspielen"><br><sub>Musik langsamer abspielen</sub></td>
+<td align="center"><img src="img/4-metronom.png" width="210" alt="Metronom"><br><sub>Metronom</sub></td>
 </tr>
 </table>
+
+<p align="center">
+<img src="img/5-duo-zu.png" width="210" alt="Musik auf dem iPhone Duo, zugeklappt">&nbsp;&nbsp;
+<img src="img/6-duo-auf.png" width="460" alt="Musik auf dem iPhone Duo, aufgeklappt"><br>
+<sub>iPhone Duo: Musik zugeklappt und aufgeklappt</sub>
+</p>
 
 ## Was Dance Home kann
 

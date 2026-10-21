@@ -8,12 +8,18 @@ Dance Home is free and will remain free. There is no paid advertising, no in-app
 
 <table>
 <tr>
-<td align="center"><img src="../img/1-tanzauswahl.jpg" width="200" alt="Dance selection"><br><sub>Dance selection</sub></td>
-<td align="center"><img src="../img/2-video-wischen.jpg" width="200" alt="Video with swipe hint"><br><sub>Videos: swipe to scrub</sub></td>
-<td align="center"><img src="../img/3-musik-tempo.jpg" width="200" alt="Play music slower"><br><sub>Play music slower</sub></td>
-<td align="center"><img src="../img/4-metronom.jpg" width="200" alt="Metronome"><br><sub>Metronome</sub></td>
+<td align="center"><img src="../img/1-tanzauswahl.png" width="210" alt="Dance selection"><br><sub>Dance selection</sub></td>
+<td align="center"><img src="../img/2-video-wischen.png" width="210" alt="Video with swipe hint"><br><sub>Videos: swipe to scrub</sub></td>
+<td align="center"><img src="../img/3-musik-tempo.png" width="210" alt="Play music slower"><br><sub>Play music slower</sub></td>
+<td align="center"><img src="../img/4-metronom.png" width="210" alt="Metronome"><br><sub>Metronome</sub></td>
 </tr>
 </table>
+
+<p align="center">
+<img src="../img/5-duo-zu.png" width="210" alt="Music on iPhone Duo, folded">&nbsp;&nbsp;
+<img src="../img/6-duo-auf.png" width="460" alt="Music on iPhone Duo, unfolded"><br>
+<sub>iPhone Duo: music folded and unfolded</sub>
+</p>
 
 _The screenshots show the German version in the dark style._
 
