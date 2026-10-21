@@ -16,9 +16,9 @@ Dance Home is free and will remain free. There is no paid advertising, no in-app
 </table>
 
 <p align="center">
-<img src="../img/5-duo-zu.png" width="210" alt="Music on iPhone Duo, folded">&nbsp;&nbsp;
-<img src="../img/6-duo-auf.png" width="460" alt="Music on iPhone Duo, unfolded"><br>
-<sub>iPhone Duo: music folded and unfolded</sub>
+<img src="../img/5-duo-zu.png" width="210" alt="Video overview on iPhone Duo, folded">&nbsp;&nbsp;
+<img src="../img/6-duo-auf.png" width="460" alt="Video overview on iPhone Duo, unfolded"><br>
+<sub>iPhone Duo: 2 columns of videos folded, 4 unfolded</sub>
 </p>
 
 _The screenshots show the German version in the dark style._
@@ -41,14 +41,14 @@ _The screenshots show the German version in the dark style._
 - A clearly audible one and adjustable tones; keeps running in the background.
 
 ### Music
-- Your own files, music library and Apple Music.
+- Your own files and your music library.
 - **Slow the music down without making it sound lower:** 70 %, 80 %, 90 % or a target tempo in bars per minute – ideal for learning new figures. Plus playlists, A–B loop and search by tempo.
 
 ### Everywhere
 - **Voice control:** “Play waltz in Dance Home” with Siri or the Android assistant.
 - **Sound output:** via AirPlay, Bluetooth or the device.
 - **iCloud sync** (optional, off by default): your library on all your own devices.
-- **Platforms:** iPhone, iPad, Android, Mac and Windows (as an installable web app).
+- **Platforms:** iPhone, iPad, Android and Mac.
 - German and English, light and dark style.
 
 ## Privacy

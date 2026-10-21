@@ -16,9 +16,9 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 </table>
 
 <p align="center">
-<img src="img/5-duo-zu.png" width="210" alt="Musik auf dem iPhone Duo, zugeklappt">&nbsp;&nbsp;
-<img src="img/6-duo-auf.png" width="460" alt="Musik auf dem iPhone Duo, aufgeklappt"><br>
-<sub>iPhone Duo: Musik zugeklappt und aufgeklappt</sub>
+<img src="img/5-duo-zu.png" width="210" alt="Videoübersicht auf dem iPhone Duo, zugeklappt">&nbsp;&nbsp;
+<img src="img/6-duo-auf.png" width="460" alt="Videoübersicht auf dem iPhone Duo, aufgeklappt"><br>
+<sub>iPhone Duo: zugeklappt 2 Spalten, aufgeklappt 4 Spalten Videos</sub>
 </p>
 
 ## Was Dance Home kann
@@ -39,14 +39,14 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 - Deutlich hörbare Eins und einstellbare Töne; läuft auch im Hintergrund weiter.
 
 ### Musik
-- Eigene Dateien, Musik-Mediathek und Apple Music.
+- Eigene Dateien und die Musik-Mediathek.
 - **Musik langsamer machen, ohne dass sie tiefer klingt:** 70 %, 80 %, 90 % oder ein Zieltempo in Takten pro Minute – ideal zum Einüben neuer Figuren. Dazu Playlisten, A–B-Schleife und Suche nach Tempo.
 
 ### Überall dabei
 - **Sprachsteuerung:** „Spiele Walzer in Dance Home“ mit Siri bzw. dem Android-Assistenten.
 - **Tonausgabe:** über AirPlay, Bluetooth oder das Gerät.
 - **iCloud-Sync** (optional, ab Werk aus): deine Bibliothek auf allen eigenen Geräten.
-- **Plattformen:** iPhone, iPad, Android, Mac und Windows (als installierbare Web-App).
+- **Plattformen:** iPhone, iPad, Android und Mac.
 - Deutsch und Englisch, heller und dunkler Farbstil.
 
 ## Datenschutz
