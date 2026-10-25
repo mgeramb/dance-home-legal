@@ -1,10 +1,10 @@
 # Privacy policy
 
-_The German version is authoritative. Last updated: 18 October 2026._
+_The German version is authoritative. Last updated: 25 October 2026._
 
 ## In short
 
-This policy applies to the Dance Home app on iPhone, iPad, Mac (with Apple silicon) and Android. The app processes your data on your device only, as a rule. There is no user account, no tracking, no advertising and no analytics. Data leaves your device only if you expressly send a note, a video or a song via the share menu (through the service you choose there) or expressly turn on one of the optional features – sync via iCloud or Google Drive, sharing with family or, in a future version, sharing your assessment of how danceable music is. These features are off by default. For TestFlight and Google Play tests see “Apple and Google services”.
+This policy applies to the Dance Home app on iPhone, iPad, Mac (with Apple silicon) and Android. The app processes your data on your device only, as a rule. There is no user account, no tracking, no advertising of our own and no analytics. Data leaves your device only if you expressly send a note, a video or a song via the share menu (through the service you choose there) or expressly turn on one of the optional features – sync via iCloud or Google Drive or, in a future version, sharing your assessment of how danceable music is. These features are off by default. For TestFlight and Google Play tests see “Apple and Google services”.
 
 ## Controller
 
@@ -42,10 +42,6 @@ Dance Home can sync your data between your devices. This feature is off by defau
 
 The legal basis is your consent (Art. 6(1)(a) GDPR), which you give by turning the feature on and can withdraw at any time with effect for the future by turning it off.
 
-## Share with family (optional)
-
-You can share a family library via iCloud with people you invite yourself. New videos, music and notes on dances are private by default; only what you expressly assign to the family library is shared via iCloud with the invited people, including title, tags and notes. They see your name as its origin. You can stop sharing at any time or make content private again. Sharing uses Apple's iCloud features; the controller of Dance Home has no access. The legal basis is your consent (Art. 6(1)(a) GDPR).
-
 ## Sharing videos and music with others (on request)
 
 With the share icon in the details of a video or song you can pass on a copy via your device's share menu (e.g. Messages, AirDrop, Mail, “Save to Files”). Only what you choose there is shared, with the recipients and via the service you choose. If you like, title, dance, tags and note (for music: dances, tags and tempo) are stored in the shared file; the recording location is removed from the copy by default and is only included if you turn on “Include recording location”. For Apple Music songs only a link is shared. The app itself sends nothing to the controller or to third parties. You are responsible for what you share (e.g. copyright, personal image rights).
@@ -67,7 +63,7 @@ This feature is not yet available. Before it is introduced, this policy will be 
 
 ## No sharing
 
-Your data is not sold and not used for advertising. Data is transferred only to the storage services you choose (iCloud, Google Drive), to the family members you invite and – if you turn on assessing danceability – anonymously to the controller's server.
+Your data is not sold and not used for advertising. Data is transferred only to the storage services you choose (iCloud, Google Drive) and – if you turn on assessing danceability – anonymously to the controller's server.
 
 ## Your rights
 
@@ -79,5 +75,5 @@ If new features process data differently, this policy will be updated beforehand
 
 <!-- Future sections, activate with the respective epic (E35-S08, docs/PROCESS.md):
 ## Backup file (Epic 29)
-## Online videos and online music providers (Epic 20, off by default)
+## Online music providers (off by default)
 -->
