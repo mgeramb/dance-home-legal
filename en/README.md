@@ -48,6 +48,7 @@ _The screenshots show the German version in the dark style._
 - **Voice control:** “Play waltz in Dance Home” with Siri or the Android assistant.
 - **Sound output:** via AirPlay, Bluetooth or the device.
 - **iCloud sync** (optional, off by default): your library on all your own devices.
+- **Dance circles** (iPhone, iPad and Mac only): share videos, music and notes via iCloud with people you invite yourself. Everyone can create one dance circle of their own with up to 6 people (themselves included) and join any number of others. Unsuitable entries can be reported and hidden. Dance circles are not available on Android for now.
 - **Platforms:** iPhone, iPad, Android and Mac.
 - German and English, light and dark style.
 

@@ -1,10 +1,10 @@
 # Datenschutzerklärung
 
-_Stand: 25. Oktober 2026._
+_Stand: 26. Oktober 2026._
 
 ## Kurz gesagt
 
-Diese Erklärung gilt für die App Dance Home auf iPhone, iPad, Mac (mit Apple-Chip) und Android. Die App verarbeitet deine Daten grundsätzlich nur auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking, keine eigene Werbung und keine Analyse-Werkzeuge. Daten verlassen dein Gerät nur, wenn du eine Notiz, ein Video oder einen Titel ausdrücklich über das Teilen-Menü verschickst (über den Dienst, den du dort wählst) oder eine der optionalen Funktionen ausdrücklich einschaltest – die Synchronisierung über iCloud oder Google Drive bzw. künftig das Teilen deiner Einschätzung zur Tanztauglichkeit von Musik. Diese Funktionen sind ab Werk ausgeschaltet. Zu TestFlight und den Tests über Google Play siehe „Dienste von Apple und Google“.
+Diese Erklärung gilt für die App Dance Home auf iPhone, iPad, Mac (mit Apple-Chip) und Android. Die App verarbeitet deine Daten grundsätzlich nur auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking, keine eigene Werbung und keine Analyse-Werkzeuge. Daten verlassen dein Gerät nur, wenn du eine Notiz, ein Video oder einen Titel ausdrücklich über das Teilen-Menü verschickst (über den Dienst, den du dort wählst) oder eine der optionalen Funktionen ausdrücklich einschaltest – die Synchronisierung über iCloud oder Google Drive, das Teilen in Tanzkreisen bzw. künftig das Teilen deiner Einschätzung zur Tanztauglichkeit von Musik. Diese Funktionen sind ab Werk ausgeschaltet. Zu TestFlight und den Tests über Google Play siehe „Dienste von Apple und Google“.
 
 ## Verantwortlicher
 
@@ -42,9 +42,18 @@ Dance Home kann deine Daten zwischen deinen Geräten synchronisieren. Diese Funk
 
 Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), die du durch das Einschalten erteilst und durch das Ausschalten jederzeit mit Wirkung für die Zukunft widerrufen kannst.
 
+## Tanzkreise (optional, iPhone, iPad und Mac)
+
+Du kannst einen eigenen Tanzkreis gründen und dazu bis zu fünf Personen über iCloud einladen; bei Tanzkreisen anderer kannst du mitmachen, wenn sie dich einladen. Neue Videos, Musik und Notizen zu Tänzen sind standardmäßig privat; nur was du ausdrücklich in deinen Tanzkreis teilst, wird samt Titel, Stichworten und Notizen über iCloud für dessen Mitglieder freigegeben. Neues teilt nur, wer den Tanzkreis gegründet hat; Mitglieder mit „Ansehen und ändern“ können Titel, Stichworte und Notizen ändern, dabei wird ihr Name als letzte Änderung gespeichert. Die Inhalte eines Tanzkreises liegen in der iCloud der Person, die ihn gegründet hat. Du kannst Inhalte jederzeit wieder privat machen, deinen Tanzkreis löschen (die Inhalte bleiben dann bei dir privat) oder einen fremden Tanzkreis verlassen.
+
+- **Melden und Ausblenden:** Meldest du einen Eintrag in einem fremden Tanzkreis, wird er für dich sofort ausgeblendet, und die Meldung (welcher Eintrag, gewählter Grund, Zeitpunkt) wird im Tanzkreis abgelegt. Sehen kann sie nur die Person, die den Tanzkreis gegründet hat; die App zeigt nicht an, wer gemeldet hat. Entscheidet sie nicht innerhalb von 5 Stunden, wird der Eintrag für alle Mitglieder vorsorglich ausgeblendet, bis sie entscheidet. Personen und Einträge, die du für dich ausblendest, merkt sich nur dein Gerät. Meldungen gehen nicht an den Verantwortlichen von Dance Home.
+- **Zugriff:** Wer einen Tanzkreis gegründet hat, legt fest, wer Titel, Stichworte und Notizen ändern darf („Ansehen und ändern“ oder „Nur ansehen“), und kann Personen entfernen. Diese Angaben liegen ebenfalls im Tanzkreis.
+
+Die Freigabe läuft über die iCloud-Funktionen von Apple; der Verantwortliche von Dance Home hat keinen Zugriff. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
+
 ## Videos und Musik nach außen teilen (auf Wunsch)
 
-Mit dem Teilen-Symbol in den Details eines Videos oder Musiktitels kannst du eine Kopie über das Teilen-Menü deines Geräts weitergeben (z. B. Nachrichten, AirDrop, Mail, „In Dateien sichern“). Geteilt wird nur, was du dort ausdrücklich auswählst, an die Empfänger und über den Dienst, den du wählst. Auf Wunsch stehen Titel, Tanz, Stichworte und Notiz (bei Musik Tänze, Stichworte und Tempo) in der geteilten Datei; der Aufnahmeort wird ab Werk aus der Kopie entfernt und geht nur mit, wenn du „Aufnahmeort mitschicken“ einschaltest. Bei Apple-Music-Titeln wird nur ein Link geteilt. Die App selbst sendet nichts an den Verantwortlichen oder an Dritte. Für das, was du teilst, bist du selbst verantwortlich (z. B. Urheberrecht, Recht am eigenen Bild).
+Mit dem Teilen-Symbol in den Details eines Videos oder Musiktitels kannst du eine Kopie über das Teilen-Menü deines Geräts weitergeben (z. B. Nachrichten, AirDrop, Mail, „In Dateien sichern“). Geteilt wird nur, was du dort ausdrücklich auswählst, an die Empfänger und über den Dienst, den du wählst. Auf Wunsch stehen Titel, Tanz, Stichworte und Notiz (bei Musik Tänze, Stichworte und Tempo) in der geteilten Datei – entweder als Dance-Home-Eintrag (eine Datei `.dancehome` mit der Kopie und diesen Angaben) oder in der geteilten Video- bzw. Musikdatei. Die geteilte Kopie behält alle Metadaten der Datei, auch den Aufnahmeort und das Kameramodell; ein Dance-Home-Eintrag enthält zusätzlich alle Angaben, die Dance Home zu dem Video bzw. Titel gespeichert hat (z. B. Aufnahmezeit, ursprünglicher Dateiname und die Verknüpfung zum Original in deiner Mediathek). Bei Apple-Music-Titeln wird nur ein Link geteilt. Die App selbst sendet nichts an den Verantwortlichen oder an Dritte. Für das, was du teilst, bist du selbst verantwortlich (z. B. Urheberrecht, Recht am eigenen Bild).
 
 ## Einschätzung der Tanztauglichkeit (geplant, optional)
 
@@ -63,7 +72,7 @@ Diese Funktion ist noch nicht verfügbar. Bevor sie eingeführt wird, ergänzt d
 
 ## Keine Weitergabe
 
-Deine Daten werden nicht verkauft und nicht für Werbung genutzt. Eine Übermittlung findet nur an die von dir gewählten Speicherdienste (iCloud, Google Drive) und – bei eingeschalteter Einschätzung der Tanztauglichkeit – in anonymer Form an den Server des Verantwortlichen statt.
+Deine Daten werden nicht verkauft und nicht für Werbung genutzt. Eine Übermittlung findet nur an die von dir gewählten Speicherdienste (iCloud, Google Drive), an die von dir eingeladenen Mitglieder eines Tanzkreises und – bei eingeschalteter Einschätzung der Tanztauglichkeit – in anonymer Form an den Server des Verantwortlichen statt.
 
 ## Deine Rechte
 
