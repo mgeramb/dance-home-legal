@@ -1,10 +1,10 @@
 # Privacy policy
 
-_The German version is authoritative. Last updated: 26 October 2026._
+_The German version is authoritative. Last updated: 31 October 2026._
 
 ## In short
 
-This policy applies to the Dance Home app on iPhone, iPad, Mac (with Apple silicon) and Android. The app processes your data on your device only, as a rule. There is no user account, no tracking, no advertising of our own and no analytics. Data leaves your device only if you expressly send a note, a video or a song via the share menu (through the service you choose there) or expressly turn on one of the optional features – sync via iCloud or Google Drive, sharing in dance circles or, in a future version, sharing your assessment of how danceable music is. These features are off by default. For TestFlight and Google Play tests see “Apple and Google services”.
+This policy applies to the Dance Home app on iPhone, iPad, Mac (with Apple silicon) and Android. The app processes your data on your device only, as a rule. There is no user account, no tracking, no advertising of our own and no analytics. Data leaves your device only if you expressly send a note, a video or a song via the share menu (through the service you choose there) or expressly turn on one of the optional features – sync via iCloud or Google Drive, sharing in dance circles or, in a future version, sharing your assessment of how danceable music is. These features are off by default. On Apple devices the app also passes a small state (module, dance, playback position) to your own devices via Handoff, see “Handoff between your Apple devices”. For TestFlight and Google Play tests see “Apple and Google services”.
 
 ## Controller
 
@@ -46,7 +46,7 @@ The legal basis is your consent (Art. 6(1)(a) GDPR), which you give by turning t
 
 You can create one dance circle of your own and invite up to five people via iCloud; you can join other people's dance circles when they invite you. New videos, music and notes on dances are private by default; only what you expressly share into your dance circle is shared via iCloud with its members, including title, tags and notes. Only the person who created a dance circle shares new items; members with “View and edit” can change titles, tags and notes, and their name is stored as the last change. The content of a dance circle is stored in the iCloud of the person who created it. You can make content private again at any time, delete your dance circle (its content then stays private with you) or leave someone else's dance circle.
 
-- **Reporting and hiding:** If you report an entry in someone else's dance circle, it is hidden for you at once, and the report (which entry, the chosen reason, the time) is stored in the dance circle. Only the person who created the dance circle can see it; the app does not show who reported. If they do not decide within 5 hours, the entry is hidden as a precaution for all members until they decide. People and entries you hide for yourself are remembered on your device only. Reports are not sent to the controller of Dance Home.
+- **Reporting and hiding:** If you report an entry in someone else's dance circle, it is hidden for you at once, and the report (which entry, the chosen reason, your text for “Other”, your name, the time) is stored in the dance circle. It is kept in the dance circle’s shared iCloud area; the app shows it only to the person who created the dance circle. They also see that you reported it and can remove you from the dance circle. If they do not decide within 5 hours, or if a second person reports the same entry, it is hidden as a precaution for all members until they decide. People and entries you hide for yourself are remembered on your device only. Reports are not sent to the controller of Dance Home.
 - **Access:** The person who created a dance circle decides who may change titles, tags and notes (“View and edit” or “View only”) and can remove people. This information is also stored in the dance circle.
 
 Sharing uses Apple's iCloud features; the controller of Dance Home has no access. The legal basis is your consent (Art. 6(1)(a) GDPR).
@@ -54,6 +54,10 @@ Sharing uses Apple's iCloud features; the controller of Dance Home has no access
 ## Sharing videos and music with others (on request)
 
 With the share icon in the details of a video or song you can pass on a copy via your device's share menu (e.g. Messages, AirDrop, Mail, “Save to Files”). Only what you choose there is shared, with the recipients and via the service you choose. If you like, title, dance, tags and note (for music: dances, tags and tempo) are stored in the shared file – either as a Dance Home entry (a `.dancehome` file containing the copy and these details) or in the shared video or music file. The shared copy keeps all of the file’s metadata, including the recording location and camera model; a Dance Home entry additionally contains all details Dance Home has stored for the video or song (e.g. recording time, original file name and the link to the original in your library). For Apple Music songs only a link is shared. The app itself sends nothing to the controller or to third parties. You are responsible for what you share (e.g. copyright, personal image rights).
+
+## Handoff between your Apple devices
+
+On iPhone, iPad and Mac, Dance Home uses Apple's “Handoff” feature to offer continuing on another of your devices where you left off. For this the app hands the system only a small state: the open module, the active dance, the identifier of the video or songs, the playback position, the metronome setting (tempo, meter) and the scroll position of the list – no videos, no music files, no titles or notes. Apple transfers this state only to devices signed in with the same Apple Account that have Handoff turned on; it does not appear in search or in Siri suggestions. You can turn Handoff off in your device's settings (iPhone/iPad: General › AirPlay & Continuity; Mac: General › AirDrop & Handoff). The controller of Dance Home receives none of this.
 
 ## Assessing danceability (planned, optional)
 
