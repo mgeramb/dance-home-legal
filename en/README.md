@@ -36,19 +36,18 @@ _The screenshots show the German version in the dark style._
 - Title, keywords, dance and **notes** for every video.
 - **Record in the app** with the zoom steps of the camera app; the video lands with the chosen dance right away.
 
+### Music
+- **Slow your MP3 music down without making it sound lower:** 70 %, 80 %, 90 % or a target tempo in bars per minute – ideal for learning new figures. Plus playlists, A–B loop and search by tempo.
+
 ### Metronome
 - Tempo and time signature of the dance are preset, accents can be tapped.
 - A clearly audible one and adjustable tones; keeps running in the background.
 
-### Music
-- Your own files and your music library.
-- **Slow the music down without making it sound lower:** 70 %, 80 %, 90 % or a target tempo in bars per minute – ideal for learning new figures. Plus playlists, A–B loop and search by tempo.
-
 ### Everywhere
-- **Voice control:** “Play waltz in Dance Home” with Siri or the Android assistant.
+- **Voice control** (not available on Android): “Play waltz in Dance Home” with Siri.
 - **Sound output:** via AirPlay, Bluetooth or the device.
-- **iCloud sync** (optional, off by default): your library on all your own devices.
-- **Dance circles** (iPhone, iPad and Mac only): share videos, music and notes via iCloud with people you invite yourself. Everyone can create one dance circle of their own with up to 6 people (themselves included) and join any number of others. Unsuitable entries can be reported and hidden. Dance circles are not available on Android for now.
+- **iCloud sync** (iPhone, iPad and Mac only; optional, off by default): your library on all your own devices.
+- **Dance circles** (iPhone, iPad and Mac only): share videos, music and notes via iCloud with people you invite yourself. Everyone can create one dance circle of their own with up to 6 people (themselves included) and join any number of others. Dance circles are not available on Android for now for technical reasons.
 - **Platforms:** iPhone, iPad, Android and Mac.
 - German and English, light and dark style.
 

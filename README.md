@@ -34,19 +34,18 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 - Titel, Stichworte, Tanz und **Notizen** zu jedem Video.
 - **Direkt aufnehmen** mit den Zoom-Stufen der Kamera-App; das Video landet sofort beim gewählten Tanz.
 
+### Musik
+- **Deine MP3-Musik langsamer machen, ohne dass sie tiefer klingt:** 70 %, 80 %, 90 % oder ein Zieltempo in Takten pro Minute – ideal zum Einüben neuer Figuren. Dazu Playlisten, A–B-Schleife und Suche nach Tempo.
+
 ### Metronom
 - Tempo und Taktart des Tanzes sind vorbelegt, die Betonung lässt sich antippen.
 - Deutlich hörbare Eins und einstellbare Töne; läuft auch im Hintergrund weiter.
 
-### Musik
-- Eigene Dateien und die Musik-Mediathek.
-- **Musik langsamer machen, ohne dass sie tiefer klingt:** 70 %, 80 %, 90 % oder ein Zieltempo in Takten pro Minute – ideal zum Einüben neuer Figuren. Dazu Playlisten, A–B-Schleife und Suche nach Tempo.
-
 ### Überall dabei
-- **Sprachsteuerung:** „Spiele Walzer in Dance Home“ mit Siri bzw. dem Android-Assistenten.
+- **Sprachsteuerung** (auf Android nicht verfügbar): „Spiele Walzer in Dance Home“ mit Siri.
 - **Tonausgabe:** über AirPlay, Bluetooth oder das Gerät.
-- **iCloud-Sync** (optional, ab Werk aus): deine Bibliothek auf allen eigenen Geräten.
-- **Tanzkreise** (nur iPhone, iPad und Mac): Videos, Musik und Notizen über iCloud mit Personen teilen, die du selbst einlädst. Jede Person gründet höchstens einen eigenen Tanzkreis mit bis zu 6 Personen (sie selbst eingeschlossen); bei anderen mitmachen geht beliebig oft. Unpassende Einträge lassen sich melden und ausblenden. Auf Android gibt es die Tanzkreise vorerst nicht.
+- **iCloud-Sync** (nur iPhone, iPad und Mac; optional, ab Werk aus): deine Bibliothek auf allen eigenen Geräten.
+- **Tanzkreise** (nur iPhone, iPad und Mac): Videos, Musik und Notizen über iCloud mit Personen teilen, die du selbst einlädst. Jede Person gründet höchstens einen eigenen Tanzkreis mit bis zu 6 Personen (sie selbst eingeschlossen); bei anderen mitmachen geht beliebig oft. Auf Android gibt es die Tanzkreise aus technischen Gründen vorerst nicht.
 - **Plattformen:** iPhone, iPad, Android und Mac.
 - Deutsch und Englisch, heller und dunkler Farbstil.
 
