@@ -1,6 +1,6 @@
 # Dance Home
 
-**Tanzvideos, Musik und Takt an einem Ort** – eine App zum Üben von Gesellschaftstänzen, entstanden aus einem Tanzhobby.
+**Tanzvideos und Musik an einem Ort** – eine App zum Üben von Gesellschaftstänzen, entstanden aus einem Tanzhobby.
 
 Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, keine In-App-Käufe, kein Benutzerkonto und kein Tracking. Deine Videos, deine Musik und deine Notizen bleiben auf deinem Gerät.
 
@@ -26,7 +26,7 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 ### Tänze im Mittelpunkt
 - **21 Tänze:** die 10 Turniertänze (Standard und Latein, Tempo nach WDSF) und 11 Social-Tänze wie Discofox, Salsa, Bachata, Swing oder Rock’n’Roll – jeweils mit Foto oder Symbolbild, Taktart, Tempo, Betonung und Beschreibung.
 - **Tanz-Info:** Rhythmus zum Anhören, Charakter, Geschichte und Quellen zu jedem Tanz; eigene Tänze lassen sich anlegen.
-- **Tanzauswahl:** Wähle deine Tänze als Chips; Videos, Musik und Metronom richten sich nach dem aktiven Tanz.
+- **Tanzauswahl:** Wähle deine Tänze als Chips; Videos und Musik richten sich nach dem aktiven Tanz.
 
 ### Videos
 - Eigene Videos in die App übernehmen (aus Fotos, per „Teilen“ oder direkt filmen) – die Originale bleiben unverändert.
@@ -36,14 +36,11 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 
 ### Musik
 - **Deine MP3-Musik langsamer machen, ohne dass sie tiefer klingt:** 70 %, 80 %, 90 % oder ein Zieltempo in Takten pro Minute – ideal zum Einüben neuer Figuren. Dazu Playlisten, A–B-Schleife und Suche nach Tempo.
-
-### Metronom
-- Tempo und Taktart des Tanzes sind vorbelegt, die Betonung lässt sich antippen.
-- Deutlich hörbare Eins und einstellbare Töne; läuft auch im Hintergrund weiter.
+- Für Übungen ohne Musik gibt es ein Metronom im Tempo des Tanzes.
 
 ### Überall dabei
 - **Sprachsteuerung** (auf Android nicht verfügbar): „Spiele Walzer in Dance Home“ mit Siri.
-- **Handoff** (nur iPhone, iPad und Mac): Video, Musik oder Metronom am einen Gerät starten und am anderen an derselben Stelle weitermachen – mit eingeschaltetem iCloud-Sync auch mit deinen eigenen Videos und Titeln.
+- **Handoff** (nur iPhone, iPad und Mac): Video oder Musik am einen Gerät starten und am anderen an derselben Stelle weitermachen – mit eingeschaltetem iCloud-Sync auch mit deinen eigenen Videos und Titeln.
 - **Tonausgabe:** über AirPlay, Bluetooth oder das Gerät.
 - **iCloud-Sync** (nur iPhone, iPad und Mac; optional, ab Werk aus): deine Bibliothek auf allen eigenen Geräten.
 - **Tanzkreise** (nur iPhone, iPad und Mac): Videos, Musik und Notizen über iCloud mit Personen teilen, die du selbst einlädst. Jede Person gründet höchstens einen eigenen Tanzkreis mit bis zu 6 Personen (sie selbst eingeschlossen); bei anderen mitmachen geht beliebig oft. Auf Android gibt es die Tanzkreise aus technischen Gründen vorerst nicht.

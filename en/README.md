@@ -1,6 +1,6 @@
 # Dance Home
 
-**Dance videos, music and beat in one place** – an app for practising ballroom and social dances, born out of a dancing hobby.
+**Dance videos and music in one place** – an app for practising ballroom and social dances, born out of a dancing hobby.
 
 Dance Home is free and will remain free. There is no paid advertising, no in-app purchases, no account and no tracking. Your videos, music and notes stay on your device.
 
@@ -28,7 +28,7 @@ _The screenshots show the German version in the dark style._
 ### Dances at the centre
 - **21 dances:** the 10 competition dances (Standard and Latin, tempo per WDSF) and 11 social dances such as Discofox, Salsa, Bachata, Swing or Rock’n’Roll – each with photo or placeholder image, time signature, tempo, accents and description.
 - **Dance info:** listen to the rhythm, read about character, history and sources of every dance; you can add your own dances.
-- **Dance selection:** pick your dances as chips; videos, music and metronome follow the active dance.
+- **Dance selection:** pick your dances as chips; videos and music follow the active dance.
 
 ### Videos
 - Bring your own videos into the app (from Photos, via “Share”, or film directly) – the originals stay untouched.
@@ -38,14 +38,11 @@ _The screenshots show the German version in the dark style._
 
 ### Music
 - **Slow your MP3 music down without making it sound lower:** 70 %, 80 %, 90 % or a target tempo in bars per minute – ideal for learning new figures. Plus playlists, A–B loop and search by tempo.
-
-### Metronome
-- Tempo and time signature of the dance are preset, accents can be tapped.
-- A clearly audible one and adjustable tones; keeps running in the background.
+- For drills without music, there is a metronome at the dance’s tempo.
 
 ### Everywhere
 - **Voice control** (not available on Android): “Play waltz in Dance Home” with Siri.
-- **Handoff** (iPhone, iPad and Mac only): start a video, music or the metronome on one device and carry on at the same spot on another – with iCloud sync turned on, including your own videos and songs.
+- **Handoff** (iPhone, iPad and Mac only): start a video or music on one device and carry on at the same spot on another – with iCloud sync turned on, including your own videos and songs.
 - **Sound output:** via AirPlay, Bluetooth or the device.
 - **iCloud sync** (iPhone, iPad and Mac only; optional, off by default): your library on all your own devices.
 - **Dance circles** (iPhone, iPad and Mac only): share videos, music and notes via iCloud with people you invite yourself. Everyone can create one dance circle of their own with up to 6 people (themselves included) and join any number of others. Dance circles are not available on Android for now for technical reasons.
