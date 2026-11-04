@@ -43,6 +43,7 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 
 ### Überall dabei
 - **Sprachsteuerung** (auf Android nicht verfügbar): „Spiele Walzer in Dance Home“ mit Siri.
+- **Handoff** (nur iPhone, iPad und Mac): Video, Musik oder Metronom am einen Gerät starten und am anderen an derselben Stelle weitermachen – mit eingeschaltetem iCloud-Sync auch mit deinen eigenen Videos und Titeln.
 - **Tonausgabe:** über AirPlay, Bluetooth oder das Gerät.
 - **iCloud-Sync** (nur iPhone, iPad und Mac; optional, ab Werk aus): deine Bibliothek auf allen eigenen Geräten.
 - **Tanzkreise** (nur iPhone, iPad und Mac): Videos, Musik und Notizen über iCloud mit Personen teilen, die du selbst einlädst. Jede Person gründet höchstens einen eigenen Tanzkreis mit bis zu 6 Personen (sie selbst eingeschlossen); bei anderen mitmachen geht beliebig oft. Auf Android gibt es die Tanzkreise aus technischen Gründen vorerst nicht.

@@ -45,6 +45,7 @@ _The screenshots show the German version in the dark style._
 
 ### Everywhere
 - **Voice control** (not available on Android): “Play waltz in Dance Home” with Siri.
+- **Handoff** (iPhone, iPad and Mac only): start a video, music or the metronome on one device and carry on at the same spot on another – with iCloud sync turned on, including your own videos and songs.
 - **Sound output:** via AirPlay, Bluetooth or the device.
 - **iCloud sync** (iPhone, iPad and Mac only; optional, off by default): your library on all your own devices.
 - **Dance circles** (iPhone, iPad and Mac only): share videos, music and notes via iCloud with people you invite yourself. Everyone can create one dance circle of their own with up to 6 people (themselves included) and join any number of others. Dance circles are not available on Android for now for technical reasons.
