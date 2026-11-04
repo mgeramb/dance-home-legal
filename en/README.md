@@ -53,7 +53,7 @@ _The screenshots show the German version in the dark style._
 
 ## Privacy
 
-Dance Home keeps everything on your device – no account, no server, no tracking. iCloud sync is optional and off by default. Before first use you confirm the privacy policy; it can also be read in the app without internet.
+Dance Home keeps everything on your device – no account, no server, no tracking. iCloud sync is optional and off by default. Whatever is in your iCloud stays there even if you delete the app – free the space beforehand in the app (iCloud & backup › “Delete iCloud data”, your own dance circle under Dance circles) or in your device’s iCloud settings (Manage Storage › Dance Home). Before first use you confirm the privacy policy; it can also be read in the app without internet.
 
 - [Privacy policy](privacy.md)
 - [Legal notice](impressum.md)

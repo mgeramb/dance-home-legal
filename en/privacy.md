@@ -1,6 +1,6 @@
 # Privacy policy
 
-_The German version is authoritative. Last updated: 31 October 2026._
+_The German version is authoritative. Last updated: 4 November 2026._
 
 ## In short
 
@@ -30,7 +30,7 @@ The app only asks for access a feature needs, and only when you use that feature
 
 ## Storage, backup and deletion
 
-The data is stored in the app's storage on your device. It is part of your device backup (iCloud or Google backup, or a backup on your computer) if you have turned it on. In the app you can delete individual videos and songs (Settings › Storage). If you delete the app, all of its data is removed from the device.
+The data is stored in the app's storage on your device. It is part of your device backup (iCloud or Google backup, or a backup on your computer) if you have turned it on. In the app you can delete individual videos and songs (Settings › Storage). If you delete the app, all of its data is removed from the device. Whatever is synced through iCloud or shared in your own dance circle stays in your iCloud and uses space there until you delete it – beforehand in the app (More › iCloud & backup › “Delete iCloud data”, your own dance circle under More › Dance circles) or in your device’s Settings (your name › iCloud › Manage Storage › Dance Home).
 
 ## Sync via iCloud or Google Drive (optional)
 

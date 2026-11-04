@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-_Stand: 31. Oktober 2026._
+_Stand: 4. November 2026._
 
 ## Kurz gesagt
 
@@ -30,7 +30,7 @@ Die App fragt nur nach Zugriffen, die eine Funktion braucht, und erst, wenn du d
 
 ## Speicherort, Sicherung und Löschen
 
-Die Daten liegen im Speicher der App auf deinem Gerät. Sie sind Teil der Gerätesicherung (iCloud- bzw. Google-Sicherung oder Sicherung am Computer), wenn du diese eingeschaltet hast. In der App kannst du einzelne Videos und Titel löschen (Einstellungen › Speicher). Wenn du die App löschst, werden alle Daten der App vom Gerät entfernt.
+Die Daten liegen im Speicher der App auf deinem Gerät. Sie sind Teil der Gerätesicherung (iCloud- bzw. Google-Sicherung oder Sicherung am Computer), wenn du diese eingeschaltet hast. In der App kannst du einzelne Videos und Titel löschen (Einstellungen › Speicher). Wenn du die App löschst, werden alle Daten der App vom Gerät entfernt. Was über iCloud synchronisiert oder in deinem eigenen Tanzkreis geteilt ist, bleibt in deiner iCloud und belegt dort Platz, bis du es löschst – vorher in der App (Mehr › iCloud & Sicherung › „iCloud-Daten löschen“, den eigenen Tanzkreis unter Mehr › Tanzkreise) oder in den Einstellungen deines Geräts (dein Name › iCloud › Speicher verwalten › Dance Home).
 
 ## Synchronisierung über iCloud oder Google Drive (optional)
 
