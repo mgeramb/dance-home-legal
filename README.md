@@ -49,9 +49,10 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 
 ## Datenschutz
 
-Dance Home speichert alles auf deinem Gerät – ohne Konto, ohne Server, ohne Tracking. iCloud-Sync ist freiwillig und ab Werk aus. Was in deiner iCloud liegt, bleibt dort auch, wenn du die App löschst – freigeben kannst du den Platz vorher in der App (iCloud & Sicherung › „iCloud-Daten löschen“, eigener Tanzkreis unter Tanzkreise) oder in den iCloud-Einstellungen deines Geräts (Speicher verwalten › Dance Home). Vor dem ersten Start bestätigst du die Datenschutzerklärung; sie lässt sich in der App auch ohne Internet lesen.
+Dance Home speichert alles auf deinem Gerät – ohne Konto, ohne Server, ohne Tracking. iCloud-Sync ist freiwillig und ab Werk aus. Was in deiner iCloud liegt, bleibt dort auch, wenn du die App löschst – freigeben kannst du den Platz vorher in der App (iCloud & Sicherung › „iCloud-Daten löschen“, eigener Tanzkreis unter Tanzkreise) oder in den iCloud-Einstellungen deines Geräts (Speicher verwalten › Dance Home). Vor dem ersten Start bestätigst du die Datenschutzerklärung und die Nutzungsbedingungen; beide lassen sich in der App auch ohne Internet lesen.
 
 - [Datenschutzerklärung](privacy.md)
+- [Nutzungsbedingungen](terms.md)
 - [Impressum](impressum.md)
 
 ## Quellen und Lizenzen
