@@ -4,7 +4,7 @@ _Stand: 9. November 2026._
 
 ## Kurz gesagt
 
-Diese Erklärung gilt für die App Dance Home auf iPhone, iPad, Mac (mit Apple-Chip) und Android. Die App verarbeitet deine Daten grundsätzlich nur auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking, keine eigene Werbung und keine Analyse-Werkzeuge. Daten verlassen dein Gerät nur, wenn du eine Notiz, ein Video oder einen Titel ausdrücklich über das Teilen-Menü verschickst (über den Dienst, den du dort wählst) oder eine der optionalen Funktionen ausdrücklich einschaltest – die Synchronisierung über iCloud oder Google Drive, das Teilen in Tanzkreisen bzw. künftig das Teilen deiner Einschätzung zur Tanztauglichkeit von Musik. Diese Funktionen sind ab Werk ausgeschaltet. Auf Apple-Geräten gibt die App außerdem über Handoff einen kleinen Stand (Modul, Tanz, Stelle der Wiedergabe) an deine eigenen Geräte weiter, siehe „Handoff zwischen deinen Apple-Geräten“. Zu TestFlight und den Tests über Google Play siehe „Dienste von Apple und Google“.
+Diese Erklärung gilt für die App Dance Home auf iPhone, iPad, Mac (mit Apple-Chip) und Android. Die App verarbeitet deine Daten grundsätzlich nur auf deinem Gerät. Es gibt kein Benutzerkonto, kein Tracking, keine eigene Werbung und keine Analyse-Werkzeuge. Daten verlassen dein Gerät nur, wenn du eine Notiz, ein Video oder einen Titel ausdrücklich über das Teilen-Menü verschickst (über den Dienst, den du dort wählst) oder eine der optionalen Funktionen ausdrücklich einschaltest – die Synchronisierung über iCloud oder das Teilen in Tanzkreisen. Diese Funktionen sind ab Werk ausgeschaltet. Auf Apple-Geräten gibt die App außerdem über Handoff einen kleinen Stand (Modul, Tanz, Stelle der Wiedergabe) an deine eigenen Geräte weiter, siehe „Handoff zwischen deinen Apple-Geräten“. Zu TestFlight und den Tests über Google Play siehe „Dienste von Apple und Google“.
 
 ## Verantwortlicher
 
@@ -32,13 +32,13 @@ Die App fragt nur nach Zugriffen, die eine Funktion braucht, und erst, wenn du d
 
 Die Daten liegen im Speicher der App auf deinem Gerät. Sie sind Teil der Gerätesicherung (iCloud- bzw. Google-Sicherung oder Sicherung am Computer), wenn du diese eingeschaltet hast. In der App kannst du einzelne Videos und Titel löschen (Einstellungen › Speicher). Wenn du die App löschst, werden alle Daten der App vom Gerät entfernt. Was über iCloud synchronisiert oder in deinem eigenen Tanzkreis geteilt ist, bleibt in deiner iCloud und belegt dort Platz, bis du es löschst – vorher in der App (Mehr › iCloud & Sicherung › „iCloud-Daten löschen“, den eigenen Tanzkreis unter Mehr › Tanzkreise) oder in den Einstellungen deines Geräts (dein Name › iCloud › Speicher verwalten › Dance Home).
 
-## Synchronisierung über iCloud oder Google Drive (optional)
+## Synchronisierung über iCloud (optional, iPhone, iPad und Mac)
 
-Dance Home kann deine Daten zwischen deinen Geräten synchronisieren. Diese Funktion ist ab Werk ausgeschaltet und wird nur aktiv, wenn du sie selbst einschaltest.
+Dance Home kann deine Daten zwischen deinen Apple-Geräten synchronisieren. Diese Funktion ist ab Werk ausgeschaltet und wird nur aktiv, wenn du sie selbst einschaltest.
 
 - **Was übertragen wird:** deine Videos und Musik sowie Stichworte, Notizen (zu Videos und zu Tänzen), Bewertungen, eigene Tänze und Einstellungen.
-- **Wohin:** ausschließlich in deinen eigenen Speicher bei Apple (iCloud) bzw. Google (Google Drive). Für die Speicherung und Übertragung gelten die Datenschutzbestimmungen des jeweiligen Anbieters. Der Verantwortliche von Dance Home hat keinen Zugriff auf diese Daten.
-- **Ausschalten:** jederzeit in den Einstellungen der App. Bereits übertragene Daten verwaltest oder löschst du in deinem iCloud- bzw. Google-Konto.
+- **Wohin:** ausschließlich in deinen eigenen iCloud-Speicher bei Apple. Für die Speicherung und Übertragung gelten die Datenschutzbestimmungen von Apple. Der Verantwortliche von Dance Home hat keinen Zugriff auf diese Daten.
+- **Ausschalten:** jederzeit in den Einstellungen der App. Bereits übertragene Daten verwaltest oder löschst du in deiner iCloud.
 
 Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), die du durch das Einschalten erteilst und durch das Ausschalten jederzeit mit Wirkung für die Zukunft widerrufen kannst.
 
@@ -59,16 +59,6 @@ Mit dem Teilen-Symbol in den Details eines Videos oder Musiktitels kannst du ein
 
 Auf iPhone, iPad und Mac bietet Dance Home über die Apple-Funktion „Handoff“ an, auf einem anderen deiner Geräte dort weiterzumachen, wo du gerade bist. Dafür übergibt die App dem System nur einen kleinen Stand: das geöffnete Modul, den aktiven Tanz, die Kennung des Videos bzw. der Musiktitel, die Stelle der Wiedergabe, die Einstellung des Metronoms (Tempo, Takt) und die Scrollposition der Liste – keine Videos, keine Musikdateien, keine Titel oder Notizen. Apple überträgt diesen Stand nur an Geräte, die mit demselben Apple Account angemeldet sind und Handoff eingeschaltet haben; er erscheint nicht in der Suche und nicht in Siri-Vorschlägen. Du schaltest Handoff in den Einstellungen deines Geräts aus (iPhone/iPad: Allgemein › AirPlay & Kontinuität; Mac: Allgemein › AirDrop & Handoff). Der Verantwortliche von Dance Home erhält nichts davon.
 
-## Einschätzung der Tanztauglichkeit (geplant, optional)
-
-In einer künftigen Version kannst du optional einschätzen, wie gut sich ein Musiktitel für einen bestimmten Tanz eignet. Aus den Einschätzungen aller Teilnehmenden entstehen Vorschläge, zu welchen Tänzen ein Musiktitel passt; diese Vorschläge stellt die App allen Nutzerinnen und Nutzern bereit.
-
-- **Was übertragen wird:** deine Einschätzung, der betroffene Tanz und die zur Zuordnung des Titels nötigen Angaben (zum Beispiel Titel, Interpret und Tempo). Die Musikdatei selbst wird nicht übertragen.
-- **Anonym:** Die Übertragung an den Server des Verantwortlichen erfolgt ohne Benutzerkonto und ohne Name, E-Mail-Adresse, Gerätekennung oder sonstige Merkmale, die einen Rückschluss auf deine Person zulassen. Die IP-Adresse deines Geräts wird nur technisch bedingt für die Übertragung verarbeitet, nicht gespeichert und nicht mit den Einschätzungen verknüpft.
-- **Freiwillig:** Die Funktion ist ab Werk ausgeschaltet und lässt sich jederzeit wieder ausschalten. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
-
-Diese Funktion ist noch nicht verfügbar. Bevor sie eingeführt wird, ergänzt diese Erklärung Angaben zum Serverstandort, zu eingesetzten Dienstleistern und zur Speicherdauer.
-
 ## Dienste von Apple und Google
 
 - **Apple Music:** Wenn du Apple Music in der App einschaltest, fragt die App die Mediathek und den Katalog über die Schnittstelle MusicKit von Apple ab. Dafür gilt die Datenschutzrichtlinie von Apple.
@@ -80,7 +70,7 @@ Schreibst du an die oben genannte E-Mail-Adresse, verarbeitet der Verantwortlich
 
 ## Keine Weitergabe
 
-Deine Daten werden nicht verkauft und nicht für Werbung genutzt. Eine Übermittlung findet nur an die von dir gewählten Speicherdienste (iCloud, Google Drive), an die von dir eingeladenen Mitglieder eines Tanzkreises und – bei eingeschalteter Einschätzung der Tanztauglichkeit – in anonymer Form an den Server des Verantwortlichen statt.
+Deine Daten werden nicht verkauft und nicht für Werbung genutzt. Eine Übermittlung findet nur an deine eigene iCloud (bei eingeschalteter Synchronisierung) und an die von dir eingeladenen Mitglieder eines Tanzkreises statt – sowie an die Empfänger, denen du selbst etwas über das Teilen-Menü schickst.
 
 ## Deine Rechte
 

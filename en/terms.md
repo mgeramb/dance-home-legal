@@ -1,6 +1,6 @@
 # Terms of Use
 
-_Version 1 · Last updated: 8 November 2026 · Draft (E35-S10) – to be reviewed legally before release._
+_Version 1 · Last updated: 9 November 2026 · Draft (E35-S10) – to be reviewed legally before release._
 
 ## In short
 
@@ -20,7 +20,7 @@ How the app handles your data is described in the Privacy Policy. If you get the
 
 Dance Home is free, without paid advertising and without in-app purchases. There is no entitlement to the app or individual features being available at all times, free of errors or permanently. Features may change, be added or be removed with updates. Features marked "Beta" are experiments and may be incomplete.
 
-Some features use services of other providers, such as iCloud, Apple Music, YouTube or Google. Those services are governed by their own terms; the provider of Dance Home has no influence on them and is not liable for their availability or content.
+Some features use services of other providers, such as iCloud, Apple Music or Google. Those services are governed by their own terms; the provider of Dance Home has no influence on them and is not liable for their availability or content.
 
 ## 3. Licence to use
 
@@ -38,7 +38,6 @@ You are responsible for being allowed to use your content. In particular:
 
 - Only import and share music, videos and photos to which you hold the necessary rights or whose use is permitted to you (for example for private use).
 - Respect the rights of the people who can be seen or heard in your recordings. Only record other people with their consent, and only share such recordings with their consent.
-- Online videos (for example from YouTube) are only linked and played through the provider's player; that provider's rules apply.
 
 ## 5. Dance circles and sharing: rules for getting along
 
@@ -86,7 +85,7 @@ You can stop using the app at any time by deleting it. If needed, free up your i
 
 ## 11. App Store and Google Play
 
-If you download the app from the App Store, Apple's Licensed Application End User License Agreement (Standard EULA) also applies. These terms are concluded between you and the provider only, not with Apple. Apple is not responsible for the app or its content and has no obligation to provide maintenance or support. The provider alone is responsible for any claims relating to the app (such as product liability, failure to comply with legal requirements, or third-party rights), unless these terms exclude them. If the app fails to conform to a warranty, you may notify Apple, and Apple will refund the purchase price, if any; Apple has no other warranty obligation. Apple and its subsidiaries are third-party beneficiaries of these terms and may enforce them against you. You confirm that you are not located in a country subject to a US Government embargo and are not on any US Government list of prohibited or restricted parties.
+If you download the app from the App Store, Apple's Licensed Application End User License Agreement (Standard EULA) also applies. These terms are concluded between you and the provider only, not with Apple. Apple is not responsible for the app or its content and has no obligation to provide maintenance or support. The provider alone is responsible for any claims relating to the app (such as product liability, failure to comply with legal requirements, or third-party rights), unless these terms exclude them. If the app fails to conform to a warranty, you may notify Apple. As Dance Home is free, there is no purchase price to refund; Apple has no other warranty obligation. Apple and its subsidiaries are third-party beneficiaries of these terms and may enforce them against you. You confirm that you are not located in a country subject to a US Government embargo and are not on any US Government list of prohibited or restricted parties.
 
 If you download the app from Google Play, the Google Play Terms of Service also apply.
 

@@ -1,6 +1,6 @@
 # Nutzungsbedingungen
 
-_Fassung 1 · Stand: 8. November 2026 · Entwurf (E35-S10) – vor der Veröffentlichung rechtlich prüfen._
+_Fassung 1 · Stand: 9. November 2026 · Entwurf (E35-S10) – vor der Veröffentlichung rechtlich prüfen._
 
 ## Kurz gesagt
 
@@ -20,7 +20,7 @@ Wie die App mit deinen Daten umgeht, beschreibt die Datenschutzerklärung. Für 
 
 Dance Home ist kostenlos, ohne bezahlte Werbung und ohne In-App-Käufe. Es besteht kein Anspruch darauf, dass die App oder einzelne Funktionen jederzeit, fehlerfrei oder dauerhaft verfügbar sind. Funktionen können sich mit Updates ändern, hinzukommen oder entfallen. Als „Beta“ gekennzeichnete Funktionen sind Versuche und können unvollständig sein.
 
-Manche Funktionen nutzen Dienste anderer Anbieter, etwa iCloud, Apple Music, YouTube oder Google. Für diese Dienste gelten deren eigene Bedingungen; der Anbieter von Dance Home hat darauf keinen Einfluss und haftet nicht für ihre Verfügbarkeit oder ihre Inhalte.
+Manche Funktionen nutzen Dienste anderer Anbieter, etwa iCloud, Apple Music oder Google. Für diese Dienste gelten deren eigene Bedingungen; der Anbieter von Dance Home hat darauf keinen Einfluss und haftet nicht für ihre Verfügbarkeit oder ihre Inhalte.
 
 ## 3. Nutzungsrecht
 
@@ -38,7 +38,6 @@ Du bist dafür verantwortlich, dass du die Inhalte nutzen darfst. Insbesondere:
 
 - Importiere und teile nur Musik, Videos und Fotos, an denen du die nötigen Rechte hast oder deren Nutzung dir erlaubt ist (zum Beispiel für den privaten Gebrauch).
 - Achte die Rechte der Menschen, die in deinen Aufnahmen zu sehen oder zu hören sind. Nimm andere Personen nur mit deren Einverständnis auf und teile solche Aufnahmen nur mit deren Einverständnis.
-- Online-Videos (zum Beispiel von YouTube) werden nur verknüpft und über den Player des Anbieters abgespielt; dafür gelten dessen Regeln.
 
 ## 5. Tanzkreise und Teilen: Regeln für das Miteinander
 
@@ -86,7 +85,7 @@ Du kannst die Nutzung jederzeit beenden, indem du die App löschst. Gib vorher b
 
 ## 11. App Store und Google Play
 
-Lädst du die App aus dem App Store, gilt zusätzlich der Standard-Lizenzvertrag für Endnutzer:innen von Apple (Licensed Application End User License Agreement). Diese Bedingungen gelten nur zwischen dir und dem Anbieter, nicht mit Apple. Apple ist für die App und ihre Inhalte nicht verantwortlich und nicht zu Wartung oder Support verpflichtet. Für Ansprüche im Zusammenhang mit der App (etwa Produkthaftung, Verstöße gegen Rechtsvorschriften oder Rechte Dritter) ist allein der Anbieter zuständig, soweit diese Bedingungen sie nicht ausschließen. Erfüllt die App eine Gewährleistung nicht, kannst du dich an Apple wenden; Apple erstattet einen gegebenenfalls gezahlten Kaufpreis – darüber hinaus hat Apple keine Gewährleistungspflicht. Apple und seine Tochtergesellschaften sind begünstigte Dritte dieser Bedingungen und können sie dir gegenüber durchsetzen. Du bestätigst, dass du dich nicht in einem Land befindest, gegen das die USA ein Embargo verhängt haben, und nicht auf einer Sanktionsliste der US-Regierung stehst.
+Lädst du die App aus dem App Store, gilt zusätzlich der Standard-Lizenzvertrag für Endnutzer:innen von Apple (Licensed Application End User License Agreement). Diese Bedingungen gelten nur zwischen dir und dem Anbieter, nicht mit Apple. Apple ist für die App und ihre Inhalte nicht verantwortlich und nicht zu Wartung oder Support verpflichtet. Für Ansprüche im Zusammenhang mit der App (etwa Produkthaftung, Verstöße gegen Rechtsvorschriften oder Rechte Dritter) ist allein der Anbieter zuständig, soweit diese Bedingungen sie nicht ausschließen. Erfüllt die App eine Gewährleistung nicht, kannst du dich an Apple wenden. Da Dance Home kostenlos ist, gibt es keinen Kaufpreis zu erstatten; darüber hinaus hat Apple keine Gewährleistungspflicht. Apple und seine Tochtergesellschaften sind begünstigte Dritte dieser Bedingungen und können sie dir gegenüber durchsetzen. Du bestätigst, dass du dich nicht in einem Land befindest, gegen das die USA ein Embargo verhängt haben, und nicht auf einer Sanktionsliste der US-Regierung stehst.
 
 Lädst du die App aus Google Play, gelten zusätzlich die Nutzungsbedingungen von Google Play.
 

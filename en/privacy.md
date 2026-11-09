@@ -4,7 +4,7 @@ _The German version is authoritative. Last updated: 9 November 2026._
 
 ## In short
 
-This policy applies to the Dance Home app on iPhone, iPad, Mac (with Apple silicon) and Android. The app processes your data on your device only, as a rule. There is no user account, no tracking, no advertising of our own and no analytics. Data leaves your device only if you expressly send a note, a video or a song via the share menu (through the service you choose there) or expressly turn on one of the optional features – sync via iCloud or Google Drive, sharing in dance circles or, in a future version, sharing your assessment of how danceable music is. These features are off by default. On Apple devices the app also passes a small state (module, dance, playback position) to your own devices via Handoff, see “Handoff between your Apple devices”. For TestFlight and Google Play tests see “Apple and Google services”.
+This policy applies to the Dance Home app on iPhone, iPad, Mac (with Apple silicon) and Android. The app processes your data on your device only, as a rule. There is no user account, no tracking, no advertising of our own and no analytics. Data leaves your device only if you expressly send a note, a video or a song via the share menu (through the service you choose there) or expressly turn on one of the optional features – sync via iCloud or sharing in dance circles. These features are off by default. On Apple devices the app also passes a small state (module, dance, playback position) to your own devices via Handoff, see “Handoff between your Apple devices”. For TestFlight and Google Play tests see “Apple and Google services”.
 
 ## Controller
 
@@ -32,13 +32,13 @@ The app only asks for access a feature needs, and only when you use that feature
 
 The data is stored in the app's storage on your device. It is part of your device backup (iCloud or Google backup, or a backup on your computer) if you have turned it on. In the app you can delete individual videos and songs (Settings › Storage). If you delete the app, all of its data is removed from the device. Whatever is synced through iCloud or shared in your own dance circle stays in your iCloud and uses space there until you delete it – beforehand in the app (More › iCloud & backup › “Delete iCloud data”, your own dance circle under More › Dance circles) or in your device’s Settings (your name › iCloud › Manage Storage › Dance Home).
 
-## Sync via iCloud or Google Drive (optional)
+## Sync via iCloud (optional, iPhone, iPad and Mac)
 
-Dance Home can sync your data between your devices. This feature is off by default and only becomes active if you turn it on yourself.
+Dance Home can sync your data between your Apple devices. This feature is off by default and only becomes active if you turn it on yourself.
 
 - **What is transferred:** your videos and music as well as tags, notes (on videos and on dances), ratings, your own dances and settings.
-- **Where to:** exclusively to your own storage with Apple (iCloud) or Google (Google Drive). The respective provider's privacy terms apply to storage and transfer. The controller of Dance Home has no access to this data.
-- **Turning it off:** at any time in the app's settings. You manage or delete data already transferred in your iCloud or Google account.
+- **Where to:** exclusively to your own iCloud storage with Apple. Apple's privacy terms apply to storage and transfer. The controller of Dance Home has no access to this data.
+- **Turning it off:** at any time in the app's settings. You manage or delete data already transferred in your iCloud.
 
 The legal basis is your consent (Art. 6(1)(a) GDPR), which you give by turning the feature on and can withdraw at any time with effect for the future by turning it off.
 
@@ -59,16 +59,6 @@ With the share icon in the details of a video or song you can pass on a copy via
 
 On iPhone, iPad and Mac, Dance Home uses Apple's “Handoff” feature to offer continuing on another of your devices where you left off. For this the app hands the system only a small state: the open module, the active dance, the identifier of the video or songs, the playback position, the metronome setting (tempo, meter) and the scroll position of the list – no videos, no music files, no titles or notes. Apple transfers this state only to devices signed in with the same Apple Account that have Handoff turned on; it does not appear in search or in Siri suggestions. You can turn Handoff off in your device's settings (iPhone/iPad: General › AirPlay & Continuity; Mac: General › AirDrop & Handoff). The controller of Dance Home receives none of this.
 
-## Assessing danceability (planned, optional)
-
-In a future version you will optionally be able to assess how well a piece of music suits a particular dance. The assessments of all participants are combined into suggestions of which dances a piece of music fits; the app makes these suggestions available to all users.
-
-- **What is transferred:** your assessment, the dance concerned and the details needed to identify the song (for example title, artist and tempo). The music file itself is not transferred.
-- **Anonymous:** The transfer to the controller's server takes place without a user account and without your name, email address, device identifier or any other attribute that would allow conclusions about your person. Your device's IP address is processed only as technically required for the transfer, is not stored and is not linked to the assessments.
-- **Voluntary:** The feature is off by default and can be turned off again at any time. The legal basis is your consent (Art. 6(1)(a) GDPR).
-
-This feature is not yet available. Before it is introduced, this policy will be supplemented with details on the server location, service providers used and the retention period.
-
 ## Apple and Google services
 
 - **Apple Music:** If you turn on Apple Music in the app, the app queries your library and the catalog through Apple's MusicKit interface. Apple's privacy policy applies.
@@ -80,7 +70,7 @@ If you write to the email address above, the controller processes your name, you
 
 ## No sharing
 
-Your data is not sold and not used for advertising. Data is transferred only to the storage services you choose (iCloud, Google Drive), to the members of a dance circle you invite and – if you turn on assessing danceability – anonymously to the controller's server.
+Your data is not sold and not used for advertising. Data is transferred only to your own iCloud (if sync is on) and to the members of a dance circle you invite – and to the recipients you send something to yourself via the share menu.
 
 ## Your rights
 
