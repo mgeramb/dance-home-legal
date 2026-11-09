@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-_Stand: 4. November 2026._
+_Stand: 9. November 2026._
 
 ## Kurz gesagt
 
@@ -73,6 +73,10 @@ Diese Funktion ist noch nicht verfügbar. Bevor sie eingeführt wird, ergänzt d
 
 - **Apple Music:** Wenn du Apple Music in der App einschaltest, fragt die App die Mediathek und den Katalog über die Schnittstelle MusicKit von Apple ab. Dafür gilt die Datenschutzrichtlinie von Apple.
 - **App Store, TestFlight und Google Play:** Beim Herunterladen und Aktualisieren verarbeiten Apple bzw. Google Daten nach ihren eigenen Datenschutzrichtlinien. Wenn du die App über TestFlight testest, erhält der Verantwortliche über Apple deinen Namen und deine E-Mail-Adresse aus der Einladung, Absturzberichte und das Feedback, das du selbst sendest. Wenn du die App über einen Test bei Google Play testest, erhält der Verantwortliche über Google deine E-Mail-Adresse aus der Testerliste, das Feedback, das du selbst sendest, sowie von Google zusammengefasste Absturz- und Leistungsdaten (Android Vitals). Diese Daten dienen nur dazu, die App zu verbessern.
+
+## Anfragen per E-Mail
+
+Schreibst du an die oben genannte E-Mail-Adresse, verarbeitet der Verantwortliche deinen Namen, deine E-Mail-Adresse und den Inhalt deiner Nachricht nur, um deine Anfrage zu beantworten (berechtigtes Interesse, Art. 6 Abs. 1 lit. f DSGVO). Die E-Mails liegen bei Apple (iCloud-Mail). Ist deine Anfrage erledigt – sie ist beantwortet und es kommen keine weiteren Fragen –, werden die E-Mails nach einem Monat gelöscht.
 
 ## Keine Weitergabe
 

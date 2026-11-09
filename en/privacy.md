@@ -1,6 +1,6 @@
 # Privacy policy
 
-_The German version is authoritative. Last updated: 4 November 2026._
+_The German version is authoritative. Last updated: 9 November 2026._
 
 ## In short
 
@@ -73,6 +73,10 @@ This feature is not yet available. Before it is introduced, this policy will be 
 
 - **Apple Music:** If you turn on Apple Music in the app, the app queries your library and the catalog through Apple's MusicKit interface. Apple's privacy policy applies.
 - **App Store, TestFlight and Google Play:** When you download and update the app, Apple or Google process data under their own privacy policies. If you test the app via TestFlight, the controller receives from Apple your name and email address from the invitation, crash reports and any feedback you send yourself. If you test the app via a Google Play test, the controller receives from Google your email address from the tester list, any feedback you send yourself and crash and performance data aggregated by Google (Android vitals). This data is used only to improve the app.
+
+## Requests by email
+
+If you write to the email address above, the controller processes your name, your email address and the content of your message only to answer your request (legitimate interest, Art. 6(1)(f) GDPR). The emails are stored with Apple (iCloud Mail). Once your request is settled – it has been answered and no further questions follow – the emails are deleted after one month.
 
 ## No sharing
 
