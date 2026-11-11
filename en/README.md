@@ -1,6 +1,6 @@
 # Dance Home
 
-**Dance videos and music in one place** – an app for practising ballroom and social dances, born out of a dancing hobby.
+**Videos in slow motion, music slowed down** – an app for practising ballroom and social dances with your own practice videos and your music, sorted by dance; born out of a dancing hobby.
 
 Dance Home is free and will remain free. There is no paid advertising, no in-app purchases, no account and no tracking. Your videos, music and notes stay on your device.
 

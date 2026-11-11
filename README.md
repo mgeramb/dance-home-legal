@@ -1,6 +1,6 @@
 # Dance Home
 
-**Tanzvideos und Musik an einem Ort** – eine App zum Üben von Gesellschaftstänzen, entstanden aus einem Tanzhobby.
+**Videos in Zeitlupe, Musik langsam** – eine App zum Üben von Gesellschaftstänzen mit deinen eigenen Trainingsvideos und deiner Musik, nach Tanz sortiert; entstanden aus einem Tanzhobby.
 
 Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, keine In-App-Käufe, kein Benutzerkonto und kein Tracking. Deine Videos, deine Musik und deine Notizen bleiben auf deinem Gerät.
 
