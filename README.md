@@ -39,7 +39,7 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 - Für Übungen ohne Musik gibt es ein Metronom im Tempo des Tanzes.
 
 ### Überall dabei
-- **Sprachsteuerung** (auf Android nicht verfügbar): „Spiele Walzer in Dance Home“ mit Siri.
+- **Sprachsteuerung** (auf Android nicht verfügbar): „Tango in Dance Home“ mit Siri.
 - **Handoff** (nur iPhone, iPad und Mac): Video oder Musik am einen Gerät starten und am anderen an derselben Stelle weitermachen – mit eingeschaltetem iCloud-Sync auch mit deinen eigenen Videos und Titeln.
 - **Tonausgabe:** über AirPlay, Bluetooth oder das Gerät.
 - **iCloud-Sync** (nur iPhone, iPad und Mac; optional, ab Werk aus): deine Bibliothek auf allen eigenen Geräten.

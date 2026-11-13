@@ -41,7 +41,7 @@ _The screenshots show the German version in the dark style._
 - For drills without music, there is a metronome at the dance’s tempo.
 
 ### Everywhere
-- **Voice control** (not available on Android): “Play waltz in Dance Home” with Siri.
+- **Voice control** (not available on Android): “Tango in Dance Home” with Siri.
 - **Handoff** (iPhone, iPad and Mac only): start a video or music on one device and carry on at the same spot on another – with iCloud sync turned on, including your own videos and songs.
 - **Sound output:** via AirPlay, Bluetooth or the device.
 - **iCloud sync** (iPhone, iPad and Mac only; optional, off by default): your library on all your own devices.
