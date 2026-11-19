@@ -6,9 +6,13 @@ Dance Home is free and will remain free. There is no paid advertising, no in-app
 
 ## Get Dance Home
 
-**iPhone / iPad / Mac (M1 or later):** on the App Store (Austria, Germany and Bulgaria): [Dance Home on the App Store](https://apps.apple.com/at/app/dance-home/id6822443272)
+### iPhone / iPad / Mac (M1 or later)
 
-**Android (e.g. Samsung, Xiaomi, Google Pixel, Motorola, OnePlus): I need your help!**
+On the App Store (Austria, Germany and Bulgaria): [Dance Home on the App Store](https://apps.apple.com/at/app/dance-home/id6822443272)
+
+### Android (e.g. Samsung, Xiaomi, Google Pixel, Motorola, OnePlus)
+
+**I need your help!**
 Before Google releases the app to everyone, I need **at least 12 testers** who keep the app **installed for 14 days**. That's all you need to do. Feedback is of course still welcome.
 
 How it works:
