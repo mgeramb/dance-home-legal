@@ -13,9 +13,9 @@ Damit Google die App für alle freigibt, brauche ich **mindestens 12 Tester:inne
 
 So geht's:
 
-1) Dieser Google-Gruppe beitreten (mit dem Google-Konto von deinem Handy): https://groups.google.com/g/dance-home-test<br>
-⏳ Jetzt kurz warten: Google braucht nach dem Beitritt etwas Zeit, meist ein paar Minuten, manchmal länger. Meldet der nächste Link „nicht verfügbar“, einfach später noch einmal probieren.
-2) Am Handy diesen Link öffnen und „Tester werden“ tippen: https://play.google.com/apps/testing/michael.geramb.danceapp
+1) Dieser Google-Gruppe beitreten (mit dem Google-Konto von deinem Handy): <https://groups.google.com/g/dance-home-test><br>
+⏳ Jetzt kurz warten: Google braucht nach dem Beitritt etwas Zeit, meist ein paar Minuten, manchmal länger. Meldet der nächste Link „nicht verfügbar“, einfach später noch einmal probieren.<br>
+2) Am Handy diesen Link öffnen und „Tester werden“ tippen: <https://play.google.com/apps/testing/michael.geramb.danceapp><br>
 3) Die App ganz normal aus dem Play Store installieren. Falls sie dort noch nicht auftaucht, auch hier ein paar Minuten warten.
 
 Danke an alle, die mitmachen! 🥰🕺💃
