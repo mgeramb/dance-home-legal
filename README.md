@@ -6,21 +6,19 @@ Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, k
 
 ## Dance Home laden
 
-🍎 **iPhone / iPad / Mac (M1 oder neuer):** im App Store (Österreich, Deutschland und Bulgarien) 👉 [Dance Home im App Store](https://apps.apple.com/at/app/dance-home/id6822443272)
+**iPhone / iPad / Mac (M1 oder neuer):** im App Store (Österreich, Deutschland und Bulgarien): [Dance Home im App Store](https://apps.apple.com/at/app/dance-home/id6822443272)
 
-🤖 **Android (z. B. Samsung, Xiaomi, Google Pixel, Motorola, OnePlus): Hier brauche ich eure Hilfe!** 🙏💛
-Damit Google die App für alle freigibt, brauche ich **mindestens 12 Tester:innen**, die die App **14 Tage lang installiert lassen**. Mehr müsst ihr nicht tun 😊 Feedback freut mich natürlich trotzdem 😉
+**Android (z. B. Samsung, Xiaomi, Google Pixel, Motorola, OnePlus): Hier brauche ich eure Hilfe!**
+Damit Google die App für alle freigibt, brauche ich **mindestens 12 Tester:innen**, die die App **14 Tage lang installiert lassen**. Mehr müsst ihr nicht tun. Feedback freut mich natürlich trotzdem.
 
 So geht's:
 
 1) Dieser Google-Gruppe beitreten (mit dem Google-Konto von deinem Handy): <https://groups.google.com/g/dance-home-test><br>
-⏳ Jetzt kurz warten: Google braucht nach dem Beitritt etwas Zeit, meist ein paar Minuten, manchmal länger. Meldet der nächste Link „nicht verfügbar“, einfach später noch einmal probieren.<br>
+Jetzt kurz warten: Google braucht nach dem Beitritt etwas Zeit, meist ein paar Minuten, manchmal länger. Meldet der nächste Link „nicht verfügbar“, einfach später noch einmal probieren.<br>
 2) Am Handy diesen Link öffnen und „Tester werden“ tippen: <https://play.google.com/apps/testing/michael.geramb.danceapp><br>
 3) Die App ganz normal aus dem Play Store installieren. Falls sie dort noch nicht auftaucht, auch hier ein paar Minuten warten.
 
 Danke an alle, die mitmachen! 🥰🕺💃
-
-> Diese Seite beschreibt nur Funktionen, die bereits in der App umgesetzt sind.
 
 <table>
 <tr>
