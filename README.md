@@ -42,7 +42,7 @@ Danke an alle, die mitmachen! 🥰🕺💃
 ## Was Dance Home kann
 
 ### Tänze im Mittelpunkt
-- **21 Tänze:** die 10 Turniertänze (Standard und Latein, Tempo nach WDSF) und 11 Social-Tänze wie Discofox, Salsa, Bachata, Swing oder Rock’n’Roll – jeweils mit Foto oder Symbolbild, Taktart, Tempo, Betonung und Beschreibung.
+- **22 Tänze:** die 10 Turniertänze (Standard und Latein, Tempo nach WDSF) und 12 Social-Tänze wie Discofox, Salsa, Bachata, Swing, Rock’n’Roll oder Flamenco – jeweils mit Foto oder Symbolbild, Taktart, Tempo, Betonung und Beschreibung.
 - **Tanz-Info:** Rhythmus zum Anhören, Charakter, Geschichte und Quellen zu jedem Tanz; eigene Tänze lassen sich anlegen.
 - **Tanzauswahl:** Wähle deine Tänze als Chips; Videos und Musik richten sich nach dem aktiven Tanz.
 

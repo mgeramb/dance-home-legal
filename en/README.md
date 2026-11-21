@@ -44,7 +44,7 @@ _The screenshots show the German version in the dark style._
 ## What Dance Home can do
 
 ### Dances at the centre
-- **21 dances:** the 10 competition dances (Standard and Latin, tempo per WDSF) and 11 social dances such as Discofox, Salsa, Bachata, Swing or Rock’n’Roll – each with photo or placeholder image, time signature, tempo, accents and description.
+- **22 dances:** the 10 competition dances (Standard and Latin, tempo per WDSF) and 12 social dances such as Discofox, Salsa, Bachata, Swing, Rock’n’Roll or Flamenco – each with photo or placeholder image, time signature, tempo, accents and description.
 - **Dance info:** listen to the rhythm, read about character, history and sources of every dance; you can add your own dances.
 - **Dance selection:** pick your dances as chips; videos and music follow the active dance.
 
