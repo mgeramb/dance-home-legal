@@ -1,5 +1,20 @@
 # Dance Home
 
+<table>
+<tr>
+<td align="center"><img src="img/1-tanzauswahl.png" width="210" alt="Tanzauswahl"><br><sub>Tanzauswahl</sub></td>
+<td align="center"><img src="img/2-video-wischen.png" width="210" alt="Video mit Wisch-Hilfe"><br><sub>Videos: Wischen zum Spulen</sub></td>
+<td align="center"><img src="img/3-musik-tempo.png" width="210" alt="Musik langsamer abspielen"><br><sub>Musik langsamer abspielen</sub></td>
+<td align="center"><img src="img/4-metronom.png" width="210" alt="Metronom"><br><sub>Metronom</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<img src="img/5-duo-zu.png" width="210" alt="Videoübersicht auf dem iPhone Duo, zugeklappt">&nbsp;&nbsp;
+<img src="img/6-duo-auf.png" width="460" alt="Videoübersicht auf dem iPhone Duo, aufgeklappt"><br>
+<sub>iPhone Duo: zugeklappt 2 Spalten, aufgeklappt 4 Spalten Videos</sub>
+</p>
+
 **Videos in Zeitlupe, Musik langsam** – eine App zum Üben von Gesellschaftstänzen mit deinen eigenen Trainingsvideos und deiner Musik, nach Tanz sortiert; entstanden aus einem Tanzhobby.
 
 Dance Home ist kostenlos und bleibt kostenlos. Es gibt keine bezahlte Werbung, keine In-App-Käufe, kein Benutzerkonto und kein Tracking. Deine Videos, deine Musik und deine Notizen bleiben auf deinem Gerät.
@@ -23,21 +38,6 @@ Jetzt kurz warten: Google braucht nach dem Beitritt etwas Zeit, meist ein paar M
 3) Die App ganz normal aus dem Play Store installieren. Falls sie dort noch nicht auftaucht, auch hier ein paar Minuten warten.
 
 Danke an alle, die mitmachen! 🥰🕺💃
-
-<table>
-<tr>
-<td align="center"><img src="img/1-tanzauswahl.png" width="210" alt="Tanzauswahl"><br><sub>Tanzauswahl</sub></td>
-<td align="center"><img src="img/2-video-wischen.png" width="210" alt="Video mit Wisch-Hilfe"><br><sub>Videos: Wischen zum Spulen</sub></td>
-<td align="center"><img src="img/3-musik-tempo.png" width="210" alt="Musik langsamer abspielen"><br><sub>Musik langsamer abspielen</sub></td>
-<td align="center"><img src="img/4-metronom.png" width="210" alt="Metronom"><br><sub>Metronom</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<img src="img/5-duo-zu.png" width="210" alt="Videoübersicht auf dem iPhone Duo, zugeklappt">&nbsp;&nbsp;
-<img src="img/6-duo-auf.png" width="460" alt="Videoübersicht auf dem iPhone Duo, aufgeklappt"><br>
-<sub>iPhone Duo: zugeklappt 2 Spalten, aufgeklappt 4 Spalten Videos</sub>
-</p>
 
 ## Was Dance Home kann
 
